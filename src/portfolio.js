@@ -7,11 +7,11 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Stephen's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A recent graduate looking to explore the world of data, artificial intelligence and machine learning",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Stephen Portfolio",
     type: "website",
     url: "http://ashutoshhathidara.com/",
   },
@@ -19,21 +19,21 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
-  logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  title: "Stephen Jeranyama",
+  logo_name: "Stephen Jeranyama",
+  //nickname: "",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A recent graduate looking to explore the world of data, artificial intelligence and machine learning",
   resumeLink:
     "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+  portfolio_repository: "https://github.com/blaze21777/blaze21777",
+  githubProfile: "https://github.com/blaze21777",
 };
 
 const socialMediaLinks = [
   /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
+  // github: "https://github.com/blaze21777".
+  // linkedin: "https://www.linkedin.com/in/stephen-j-298727115/",
   // gmail: "ashutoshhathidara98@gmail.com",
   // gitlab: "https://gitlab.com/ashutoshhathidara98",
   // facebook: "https://www.facebook.com/laymanbrother.19/",
@@ -42,16 +42,17 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/ashutosh1919",
+    link: "https://github.com/blaze21777",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
+    link: "https://www.linkedin.com/in/stephen-j-298727115/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
+  /*
   {
     name: "YouTube",
     link: "https://www.youtube.com/channel/UC_amoXmmxSY9KusoDczDTXQ",
@@ -82,6 +83,7 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
+  */
 ];
 
 const skills = {
@@ -90,9 +92,11 @@ const skills = {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
+        /*
         "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
         "⚡ Experience of working with Computer Vision and NLP projects",
         "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        */
       ],
       softwareSkills: [
         {
@@ -110,6 +114,7 @@ const skills = {
             color: "#D00000",
           },
         },
+        /*
         {
           skillName: "PyTorch",
           fontAwesomeClassname: "logos-pytorch",
@@ -117,6 +122,7 @@ const skills = {
             backgroundColor: "transparent",
           },
         },
+        */
         {
           skillName: "Python",
           fontAwesomeClassname: "ion-logo-python",
@@ -127,6 +133,7 @@ const skills = {
         },
       ],
     },
+    /*
     {
       title: "Full Stack Development",
       fileName: "FullStackImg",
@@ -316,6 +323,7 @@ const skills = {
         },
       ],
     },
+    */
   ],
 };
 
@@ -328,8 +336,9 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "https://www.hackerrank.com/layman_brother",
+      profileLink: "https://www.hackerrank.com/stje_411",
     },
+    /*
     {
       siteName: "Codechef",
       iconifyClassname: "simple-icons:codechef",
@@ -354,13 +363,14 @@ const competitiveSites = {
       },
       profileLink: "https://www.hackerearth.com/@ashutosh391",
     },
+    */
     {
       siteName: "Kaggle",
       iconifyClassname: "simple-icons:kaggle",
       style: {
         color: "#20BEFF",
       },
-      profileLink: "https://www.kaggle.com/laymanbrother",
+      profileLink: "https://www.kaggle.com/blaze21777",
     },
   ],
 };
@@ -368,23 +378,26 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - Present",
+      title: "Loughborough University",
+      subtitle: "MEng Electronics and Computer Systems Engineering",
+      logo_path: "",
+      alt_name: "Loughborough University",
+      duration: "2016 - 2022",
       descriptions: [
+        /*
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
         "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        */
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "https://www.lboro.ac.uk/",
     },
   ],
 };
 
 const certifications = {
   certifications: [
+    /*
     {
       title: "Machine Learning",
       subtitle: "- Andrew Ng",
@@ -493,6 +506,7 @@ const certifications = {
       alt_name: "GCP",
       color_code: "#4285F499",
     },
+    */
   ],
 };
 
@@ -500,13 +514,13 @@ const certifications = {
 const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
-  description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+  description: "Pending",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work",
       experiences: [
+        /*
         {
           title: "Associate AI Engineer",
           company: "Legato Health Technology",
@@ -540,22 +554,23 @@ const experience = {
             "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
           color: "#fc1f20",
         },
+        */
       ],
     },
     {
       title: "Internships",
       experiences: [
         {
-          title: "Data Science Research Intern",
-          company: "Delhivery Pvt. Ltd.",
-          company_url: "https://www.delhivery.com/",
+          title: "Test Automation Engineer Intern",
+          company: "Abaco Systems",
+          company_url: "https://www.abaco.com/",
           logo_path: "delhivery_logo.png",
-          duration: "May 2019 - Sept 2019",
-          location: "Gurgaon, Haryana",
-          description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
+          duration: "August 2020 - July 2021",
+          location: "Towcester, Northamptonshire",
+          description: "",
           color: "#ee3c26",
         },
+        /*
         {
           title: "Data Science Intern",
           company: "Intel Indexer LLC",
@@ -568,11 +583,13 @@ const experience = {
             "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
           color: "#0071C5",
         },
+        */
       ],
     },
     {
       title: "Volunteerships",
       experiences: [
+        /*
         {
           title: "Google Explore ML Facilitator",
           company: "Google",
@@ -629,6 +646,7 @@ const experience = {
             "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
           color: "#181717",
         },
+        */
       ],
     },
   ],
@@ -637,8 +655,7 @@ const experience = {
 // Projects Page
 const projectsHeader = {
   title: "Projects",
-  description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+  description: "",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -654,13 +671,11 @@ const contactPageData = {
   contactSection: {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
-    description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+    description: "",
   },
   blogSection: {
     title: "Blogs",
-    subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
+    subtitle: "",
     link: "https://ashutoshhathidara.wordpress.com",
     avatar_image_path: "blogs_image.svg",
   },
