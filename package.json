@@ -1,10 +1,10 @@
 {
   "private": true,
   "name": "masterPortfolio",
-  "homepage": "https://github.com/blaze21777/",
+  "homepage": "https://blaze21777.github.io/blaze21777/",
   "version": "0.1.0",
   "scripts": {
-    "build": "react-scripts build",
+    "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b gh-pages -d build",
     "eject": "react-scripts eject",
@@ -18,7 +18,7 @@
     "bootstrap": "^4.4.1",
     "chart.js": "^2.9.3",
     "fs": "0.0.1-security",
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^2.2.0",
     "graphql": "^14.5.8",
     "node-fetch": "^2.6.0",
     "prettier-package-json": "^2.1.3",
