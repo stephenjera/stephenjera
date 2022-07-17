@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Stephen Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://blaze21777.github.io/blaze21777/",
   },
 };
 
@@ -24,8 +24,7 @@ const greeting = {
   //nickname: "",
   subTitle:
     "A recent graduate looking to explore the world of data, artificial intelligence and machine learning",
-  resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
+  resumeLink: "",
   portfolio_repository: "https://github.com/blaze21777/blaze21777",
   githubProfile: "https://github.com/blaze21777",
 };
@@ -513,7 +512,7 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  subtitle: "Work, Internship and Volunteering",
   description: "Pending",
   header_image_path: "experience.svg",
   sections: [
@@ -586,8 +585,9 @@ const experience = {
         */
       ],
     },
+
     {
-      title: "Volunteerships",
+      title: "Volunteering",
       experiences: [
         /*
         {
@@ -658,14 +658,14 @@ const projectsHeader = {
   description: "",
   avatar_image_path: "projects_image.svg",
 };
-
+/*
 const publicationsHeader = {
   title: "Publications",
   description:
     "I have worked on and published a few research papers and publications of my own.",
   avatar_image_path: "projects_image.svg",
 };
-
+*/
 // Contact Page
 const contactPageData = {
   contactSection: {
@@ -703,6 +703,6 @@ export {
   certifications,
   experience,
   projectsHeader,
-  publicationsHeader,
+  //publicationsHeader,
   contactPageData,
 };

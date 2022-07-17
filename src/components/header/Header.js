@@ -84,6 +84,7 @@ class Header extends Component {
                   Projects
                 </NavLink>
               </li>
+              {/*
               <li>
                 <NavLink
                   to="/opensource"
@@ -96,6 +97,7 @@ class Header extends Component {
                   Open Source
                 </NavLink>
               </li>
+              */}
               <li>
                 <NavLink
                   to="/contact"
