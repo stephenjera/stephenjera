@@ -395,7 +395,7 @@ const degrees = {
     {
       title: "Loughborough University",
       subtitle: "MEng Electronics and Computer Systems Engineering",
-      logo_path: "",
+      //logo_path: "lboro_logo_2.png",
       alt_name: "Loughborough University",
       duration: "2016 - 2022",
       descriptions: [
@@ -579,7 +579,7 @@ const experience = {
           title: "Test Automation Engineer Intern",
           company: "Abaco Systems",
           company_url: "https://www.abaco.com/",
-          logo_path: "delhivery_logo.png",
+          logo_path: "abaco-logo.svg",
           duration: "August 2020 - July 2021",
           location: "Towcester, Northamptonshire",
           description: "",
