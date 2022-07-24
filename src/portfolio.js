@@ -21,10 +21,10 @@ const seo = {
 const greeting = {
   title: "Stephen Jeranyama",
   logo_name: "Stephen Jeranyama",
-  //nickname: "",
+  nickname: "",
   subTitle:
     "A recent graduate looking to explore the world of data, artificial intelligence and machine learning",
-  resumeLink: "",
+  resumeLink: "test",
   portfolio_repository: "https://github.com/blaze21777/blaze21777",
   githubProfile: "https://github.com/blaze21777",
 };
@@ -337,6 +337,30 @@ const competitiveSites = {
       },
       profileLink: "https://www.hackerrank.com/stje_411",
     },
+    {
+      siteName: "Kaggle",
+      iconifyClassname: "simple-icons:kaggle",
+      style: {
+        color: "#20BEFF",
+      },
+      profileLink: "https://www.kaggle.com/blaze21777",
+    },
+    {
+      siteName: "Credley",
+      iconifyClassname: "simple-icons:credly",
+      style: {
+        color: "#FF6B00",
+      },
+      profileLink: "https://www.credly.com/users/stephen-jeranyama/badges",
+    },
+    {
+      siteName: "Sololearn",
+      iconifyClassname: "simple-icons:sololearn",
+      style: {
+        color: "#111111",
+      },
+      profileLink: "https://www.sololearn.com/profile/933118",
+    },
     /*
     {
       siteName: "Codechef",
@@ -363,14 +387,6 @@ const competitiveSites = {
       profileLink: "https://www.hackerearth.com/@ashutosh391",
     },
     */
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/blaze21777",
-    },
   ],
 };
 
