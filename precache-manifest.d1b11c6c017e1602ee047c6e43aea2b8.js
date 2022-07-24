@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "11c93e90a76b51aafb81d73c7441731b",
+    "revision": "d97efb41c64829f4b5780ec94c0e520a",
     "url": "/blaze21777/index.html"
   },
   {
-    "revision": "b383f9d7eac19d93011b",
-    "url": "/blaze21777/static/css/main.5bcc2f3a.chunk.css"
+    "revision": "2afe09a8f3e0182c69f0",
+    "url": "/blaze21777/static/css/main.e20262e5.chunk.css"
   },
   {
-    "revision": "bb871fda252175047cba",
-    "url": "/blaze21777/static/js/2.abd1146e.chunk.js"
+    "revision": "62402a3836cb1f1adf9a",
+    "url": "/blaze21777/static/js/2.3fd4fc13.chunk.js"
   },
   {
-    "revision": "b383f9d7eac19d93011b",
-    "url": "/blaze21777/static/js/main.ca2aeb6f.chunk.js"
+    "revision": "2afe09a8f3e0182c69f0",
+    "url": "/blaze21777/static/js/main.e2be43c1.chunk.js"
   },
   {
     "revision": "ac7c7dd8e6b9998c4d0f",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/blaze21777/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "796de2ed4f5858822e147f602aa7bed0",
+    "url": "/blaze21777/static/media/abaco-logo.796de2ed.svg"
   },
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
@@ -202,6 +206,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5b4a6449747ec61a6d9aa874f2a9ceba",
     "url": "/blaze21777/static/media/jsFramework.5b4a6449.svg"
+  },
+  {
+    "revision": "fbb37669ebca28d6900186469afd9f00",
+    "url": "/blaze21777/static/media/lboro_logo.fbb37669.png"
   },
   {
     "revision": "c597fbded5de799dfb9abc3fc4f1c26f",

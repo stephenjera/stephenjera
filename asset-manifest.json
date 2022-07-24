@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/blaze21777/static/css/main.5bcc2f3a.chunk.css",
-    "main.js": "/blaze21777/static/js/main.ca2aeb6f.chunk.js",
-    "main.js.map": "/blaze21777/static/js/main.ca2aeb6f.chunk.js.map",
+    "main.css": "/blaze21777/static/css/main.e20262e5.chunk.css",
+    "main.js": "/blaze21777/static/js/main.e2be43c1.chunk.js",
+    "main.js.map": "/blaze21777/static/js/main.e2be43c1.chunk.js.map",
     "runtime-main.js": "/blaze21777/static/js/runtime-main.fbff8daa.js",
     "runtime-main.js.map": "/blaze21777/static/js/runtime-main.fbff8daa.js.map",
-    "static/js/2.abd1146e.chunk.js": "/blaze21777/static/js/2.abd1146e.chunk.js",
-    "static/js/2.abd1146e.chunk.js.map": "/blaze21777/static/js/2.abd1146e.chunk.js.map",
+    "static/js/2.3fd4fc13.chunk.js": "/blaze21777/static/js/2.3fd4fc13.chunk.js",
+    "static/js/2.3fd4fc13.chunk.js.map": "/blaze21777/static/js/2.3fd4fc13.chunk.js.map",
     "index.html": "/blaze21777/index.html",
-    "precache-manifest.fd914a9ec819b80e8e65e9977d34b82b.js": "/blaze21777/precache-manifest.fd914a9ec819b80e8e65e9977d34b82b.js",
+    "precache-manifest.d1b11c6c017e1602ee047c6e43aea2b8.js": "/blaze21777/precache-manifest.d1b11c6c017e1602ee047c6e43aea2b8.js",
     "service-worker.js": "/blaze21777/service-worker.js",
-    "static/css/main.5bcc2f3a.chunk.css.map": "/blaze21777/static/css/main.5bcc2f3a.chunk.css.map",
+    "static/css/main.e20262e5.chunk.css.map": "/blaze21777/static/css/main.e20262e5.chunk.css.map",
     "static/media/index.css": "/blaze21777/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/abaco-logo.svg": "/blaze21777/static/media/abaco-logo.796de2ed.svg",
     "static/media/address_image.svg": "/blaze21777/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/blaze21777/static/media/animated_ashutosh.be4f4800.png",
     "static/media/animated_logo.svg": "/blaze21777/static/media/animated_logo.dcd6dee2.svg",
@@ -36,6 +37,7 @@
     "static/media/iiitk_logo.png": "/blaze21777/static/media/iiitk_logo.571a8584.png",
     "static/media/intel_logo.jpg": "/blaze21777/static/media/intel_logo.29152cf7.jpg",
     "static/media/jsFramework.svg": "/blaze21777/static/media/jsFramework.5b4a6449.svg",
+    "static/media/lboro_logo.png": "/blaze21777/static/media/lboro_logo.fbb37669.png",
     "static/media/legato_logo.png": "/blaze21777/static/media/legato_logo.c597fbde.png",
     "static/media/manOnTable.svg": "/blaze21777/static/media/manOnTable.83ac24fb.svg",
     "static/media/muffito_logo.png": "/blaze21777/static/media/muffito_logo.069938a8.png",
@@ -51,8 +53,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fbff8daa.js",
-    "static/js/2.abd1146e.chunk.js",
-    "static/css/main.5bcc2f3a.chunk.css",
-    "static/js/main.ca2aeb6f.chunk.js"
+    "static/js/2.3fd4fc13.chunk.js",
+    "static/css/main.e20262e5.chunk.css",
+    "static/js/main.e2be43c1.chunk.js"
   ]
 }
