@@ -545,7 +545,7 @@ const experience = {
           location: "Hyderabad, Telangana",
           description:
             "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
-          color: "#0879bf",
+          //color: "#ffffff",
         },
         {
           title: "Android and ML Developer",
@@ -583,7 +583,7 @@ const experience = {
           duration: "August 2020 - July 2021",
           location: "Towcester, Northamptonshire",
           description: "",
-          color: "#ee3c26",
+          color: "#FFFFFF",
         },
         /*
         {

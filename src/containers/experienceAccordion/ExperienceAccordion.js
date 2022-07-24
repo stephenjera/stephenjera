@@ -24,12 +24,13 @@ class ExperienceAccordion extends Component {
                       borderColor: `${theme.headerColor}`,
                       marginBottom: `3px`,
                       fontFamily: "Google Sans Regular",
-                      color: `#FFFFFF`,
+                      color: `${theme.text}`,
                     }),
                   },
                   Content: {
                     style: () => ({
                       backgroundColor: `${theme.body}`,
+                      color: `${theme.text}`,
                     }),
                   },
                 }}

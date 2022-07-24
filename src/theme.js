@@ -120,13 +120,13 @@ export const orangeTheme = {
 };
 
 export const darkTheme = {
-  body: "#3D3D3D",
-  text: "#FFFFFF",
+  body: "#222222",
+  text: "#CCCCCC",
   highlight: "#181818",
-  dark: "#181818",
-  secondaryText: "#FFFFFF",
+  dark: "#000000",
+  secondaryText: "#CCCCCC",
   imageHighlight: "#3D3D3D",
-  compImgHighlight: "#FFFFFF",
+  compImgHighlight: "#212121",
   jacketColor: "#2D2D2D",
   headerColor: "#181818",
 };
