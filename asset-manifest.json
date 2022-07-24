@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/blaze21777/static/css/main.5bcc2f3a.chunk.css",
-    "main.js": "/blaze21777/static/js/main.64b5cb8f.chunk.js",
-    "main.js.map": "/blaze21777/static/js/main.64b5cb8f.chunk.js.map",
+    "main.js": "/blaze21777/static/js/main.ca2aeb6f.chunk.js",
+    "main.js.map": "/blaze21777/static/js/main.ca2aeb6f.chunk.js.map",
     "runtime-main.js": "/blaze21777/static/js/runtime-main.fbff8daa.js",
     "runtime-main.js.map": "/blaze21777/static/js/runtime-main.fbff8daa.js.map",
     "static/js/2.abd1146e.chunk.js": "/blaze21777/static/js/2.abd1146e.chunk.js",
     "static/js/2.abd1146e.chunk.js.map": "/blaze21777/static/js/2.abd1146e.chunk.js.map",
     "index.html": "/blaze21777/index.html",
-    "precache-manifest.088782ebd171cb596597e4df2a0e34c9.js": "/blaze21777/precache-manifest.088782ebd171cb596597e4df2a0e34c9.js",
+    "precache-manifest.fd914a9ec819b80e8e65e9977d34b82b.js": "/blaze21777/precache-manifest.fd914a9ec819b80e8e65e9977d34b82b.js",
     "service-worker.js": "/blaze21777/service-worker.js",
     "static/css/main.5bcc2f3a.chunk.css.map": "/blaze21777/static/css/main.5bcc2f3a.chunk.css.map",
     "static/media/index.css": "/blaze21777/static/media/Montserrat-Regular.ee653992.ttf",
@@ -53,6 +53,6 @@
     "static/js/runtime-main.fbff8daa.js",
     "static/js/2.abd1146e.chunk.js",
     "static/css/main.5bcc2f3a.chunk.css",
-    "static/js/main.64b5cb8f.chunk.js"
+    "static/js/main.ca2aeb6f.chunk.js"
   ]
 }
