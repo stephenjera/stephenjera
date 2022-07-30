@@ -647,7 +647,7 @@ const publicationsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    //profile_image_path: "",
     description: "",
   },
   blogSection: {
@@ -657,16 +657,19 @@ const contactPageData = {
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
-    title: "Address",
+    title: " Work Address",
     subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+      "Rockborne, 1st floor, Melbury House, 51 Wimbledon Hill Rd, London SW19 7QW",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link:
+      "https://www.google.com/maps/dir//Rockborne,+1c+Alwyne+Rd,+London+SW19+7AB/@51.4228339,-0.2087956,17z/data=!4m16!1m6!3m5!1s0x0:0x4dfd25617d24dc4e!2sRockborne!8m2!3d51.4228681!4d-0.208387!4m8!1m0!1m5!1m1!1s0x48760968083e1a61:0x4dfd25617d24dc4e!2m2!1d-0.2091896!2d51.4228941!3e2",
   },
+  /*
   phoneSection: {
     title: "Phone Number",
     subtitle: "+91 8320758513",
   },
+  */
 };
 
 export {

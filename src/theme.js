@@ -120,7 +120,7 @@ export const orangeTheme = {
 };
 
 export const darkTheme = {
-  body: "#222222",
+  body: "#666666",
   text: "#CCCCCC",
   highlight: "#181818",
   dark: "#000000",

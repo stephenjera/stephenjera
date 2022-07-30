@@ -41,16 +41,12 @@
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "C",
+          "iconifyClass": "logos:c"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "C++",
+          "iconifyClass": "logos:c-plusplus"
         }
       ]
     },
@@ -62,10 +58,6 @@
       "description": null,
       "isFork": false,
       "languages": [
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
-        },
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
@@ -87,7 +79,16 @@
       "url": "https://github.com/blaze21777/SQL-Projects",
       "description": null,
       "isFork": false,
-      "languages": []
+      "languages": [
+        {
+          "name": "PostgreSQL",
+          "iconifyClass": "logos:postgresql"
+        },
+        {
+          "name": "MySQL",
+          "iconifyClass": "logos:mysql"
+        }
+      ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkxOTQ2NDAxMDg=",
@@ -98,16 +99,8 @@
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "VHDL-Projects",
+          "iconifyClass": "vscode-icons:file-type-vhdl"
         }
       ]
     }

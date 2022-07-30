@@ -98,7 +98,6 @@ class Header extends Component {
                 </NavLink>
               </li>
               */}
-              {/*
               <li>
                 <NavLink
                   to="/contact"
@@ -111,7 +110,6 @@ class Header extends Component {
                   Contact Me
                 </NavLink>
               </li>
-            */}
             </ul>
           </header>
         </div>
