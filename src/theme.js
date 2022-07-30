@@ -131,4 +131,4 @@ export const darkTheme = {
   headerColor: "#181818",
 };
 
-export const chosenTheme = darkTheme;
+export const chosenTheme = blackTheme;

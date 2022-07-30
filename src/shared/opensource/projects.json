@@ -1,24 +1,16 @@
 {
   "data": [
     {
-      "id": "MDEwOlJlcG9zaXRvcnkxOTM0NTY3NTQ=",
-      "name": "C-Projects",
-      "createdAt": "2019-06-24T07:32:43Z",
-      "url": "https://github.com/blaze21777/C-Projects",
+      "id": "R_kgDOHvPJ9g",
+      "name": "Automatic-Music-Transcription",
+      "createdAt": "2022-07-29T17:15:37Z",
+      "url": "https://github.com/blaze21777/Automatic-Music-Transcription",
       "description": null,
       "isFork": false,
       "languages": [
         {
-          "name": "C",
-          "iconifyClass": "logos:c"
-        },
-        {
-          "name": "C++",
-          "iconifyClass": "logos:c-plusplus"
-        },
-        {
-          "name": "Arduino",
-          "iconifyClass": "logos:arduino"
+          "name": "Python",
+          "iconifyClass": "logos-python"
         }
       ]
     },
@@ -41,22 +33,61 @@
       ]
     },
     {
+      "id": "MDEwOlJlcG9zaXRvcnkxOTM0NTY3NTQ=",
+      "name": "C-Projects",
+      "createdAt": "2019-06-24T07:32:43Z",
+      "url": "https://github.com/blaze21777/C-Projects",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHqz97A",
+      "name": "blaze21777",
+      "createdAt": "2022-07-16T18:16:49Z",
+      "url": "https://github.com/blaze21777/blaze21777",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
       "id": "R_kgDOHbpwEA",
       "name": "SQL-Projects",
       "createdAt": "2022-06-01T13:55:00Z",
       "url": "https://github.com/blaze21777/SQL-Projects",
       "description": null,
       "isFork": false,
-      "languages": [
-        {
-          "name": "MySQL",
-          "iconifyClass": "logos:mysql"
-        },
-        {
-          "name": "Postgresql",
-          "iconifyClass": "simple-icons:postgresql"
-        }
-      ]
+      "languages": []
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkxOTQ2NDAxMDg=",
@@ -67,8 +98,16 @@
       "isFork": false,
       "languages": [
         {
-          "name": "VHDL",
-          "iconifyClass": "vscode-icons:file-type-vhdl"
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
         }
       ]
     }

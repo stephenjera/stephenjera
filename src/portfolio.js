@@ -91,11 +91,8 @@ const skills = {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        /*
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
-        */
+        "⚡ Experience developing LSTMs and CNN models for Automatic Music Transcription",
+        "⚡ Using random forests and SVMs for feature selection and predictions",
       ],
       softwareSkills: [
         {
@@ -113,21 +110,80 @@ const skills = {
             color: "#D00000",
           },
         },
-        /*
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        */
         {
           skillName: "Python",
           fontAwesomeClassname: "ion-logo-python",
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Jupyter Notebooks",
+          fontAwesomeClassname: "logos:jupyter",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Postgresql",
+          fontAwesomeClassname: "logos:postgresql",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "MySQL",
+          fontAwesomeClassname: "logos:mysql",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+      ],
+    },
+    {
+      title: "Embedded Systems",
+      fileName: "FullStackImg",
+      skills: [
+        "⚡ Designing embedded software for Arduinos, Raspberry Pis and STM32s",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Arduino",
+          fontAwesomeClassname: "logos:arduino",
+          style: {
+            color: "#FF2BC2",
+          },
+        },
+        {
+          skillName: "C",
+          fontAwesomeClassname: "logos:c",
+          style: {
+            color: "#F24E1E",
+          },
+        },
+        {
+          skillName: "C++",
+          fontAwesomeClassname: "logos:c-plusplus",
+          style: {
+            color: "#FF7C00",
+          },
+        },
+        {
+          skillName: "Raspberry Pi",
+          fontAwesomeClassname: "logos:raspberry-pi",
+          style: {
+            color: "#000000",
+          },
+        },
+        {
+          skillName: "STM Microelectronics",
+          fontAwesomeClassname: "simple-icons:stmicroelectronics",
+          style: {
+            color: "#000000",
           },
         },
       ],
@@ -215,6 +271,8 @@ const skills = {
         },
       ],
     },
+    */
+    /*
     {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
@@ -283,45 +341,6 @@ const skills = {
         },
       ],
     },
-    {
-      title: "UI/UX Design",
-      fileName: "DesignImg",
-      skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
-        {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
-          style: {
-            color: "#F24E1E",
-          },
-        },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
-          },
-        },
-      ],
-    },
     */
   ],
 };
@@ -361,32 +380,6 @@ const competitiveSites = {
       },
       profileLink: "https://www.sololearn.com/profile/933118",
     },
-    /*
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
-    },
-    */
   ],
 };
 
@@ -394,16 +387,19 @@ const degrees = {
   degrees: [
     {
       title: "Loughborough University",
-      subtitle: "MEng Electronics and Computer Systems Engineering",
+      subtitle: "MEng(Hons) Electronic and Computer Systems Engineering",
       //logo_path: "lboro_logo_2.png",
       alt_name: "Loughborough University",
       duration: "2016 - 2022",
       descriptions: [
-        /*
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
-        */
+        "Electronic and Computer Systems Engineering (MEng) taught me to combine digital electronics, microprocessors and software to develop and enable the potential of embedded computer systems.",
+        "Key Modules:",
+        "⚡ Machine Learning - Principles and Applications for Engineers",
+        "⚡ Real-Time Software Engineering",
+        "⚡ Programming Multicore Systems",
+        "⚡ Computer Architecture",
+        "⚡ Robotics Project Design and Management",
+        "⚡ Electronic System Design with FPGAs",
       ],
       website_link: "https://www.lboro.ac.uk/",
     },
@@ -529,47 +525,24 @@ const certifications = {
 const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteering",
-  description: "Pending",
+  description:
+    "I have gained experience on my placement as a Test Automation Engineer and my university projects varying from robotics design and machine learning",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work",
       experiences: [
-        /*
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
-          logo_path: "legato_logo.png",
-          duration: "June 2020 - PRESENT",
-          location: "Hyderabad, Telangana",
+          title: "Graduate Consultant",
+          company: "Rockborne",
+          company_url: "https://rockborne.com/",
+          logo_path: "Rockborne-logo-red.jpg",
+          duration: "July 2022 - PRESENT",
+          location: "Wimbeldon, London",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
-          //color: "#ffffff",
+            "Rockborne are an expert provider of specialist Data & Analytics consultants. They employ diverse, talented, and ambitious STEM graduates. They then immerse them in a powerful combination of bespoke technical, business, and interpersonal training to meet the needs of leading UK companies.",
+          color: "#4285F4",
         },
-        {
-          title: "Android and ML Developer",
-          company: "Muffito Incorporation",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
-          logo_path: "muffito_logo.png",
-          duration: "May 2018 - Oct 2018",
-          location: "Pune, Maharashtra",
-          description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
-          color: "#9b1578",
-        },
-        {
-          title: "Android Developer",
-          company: "FreeCopy Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/freecopy/about/",
-          logo_path: "freecopy_logo.png",
-          duration: "Nov 2017 - Dec 2017",
-          location: "Ahmedabad, Gujarat",
-          description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
-          color: "#fc1f20",
-        },
-        */
       ],
     },
     {
@@ -579,44 +552,31 @@ const experience = {
           title: "Test Automation Engineer Intern",
           company: "Abaco Systems",
           company_url: "https://www.abaco.com/",
-          logo_path: "abaco-logo.svg",
+          logo_path: "abaco_logo.jpg",
           duration: "August 2020 - July 2021",
           location: "Towcester, Northamptonshire",
-          description: "",
-          color: "#FFFFFF",
-        },
-        /*
-        {
-          title: "Data Science Intern",
-          company: "Intel Indexer LLC",
-          company_url:
-            "https://opencorporates.com/companies/us_dc/EXTUID_4170286",
-          logo_path: "intel_logo.jpg",
-          duration: "Nov 2018 - Dec 2018",
-          location: "Work From Home",
           description:
-            "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
-          color: "#0071C5",
+            "Abaco Systems designs a COTS rugged embedded computing products. I completed LabVIEW cores 1,2 and 3 and used the knowledge in conjuction with NI Teststand to create drivers for a thermal chamber and a full test solution for one of Abaco's single board computers.",
+          color: "#4285F4",
         },
-        */
       ],
     },
 
     {
       title: "Volunteering",
       experiences: [
-        /*
         {
-          title: "Google Explore ML Facilitator",
-          company: "Google",
-          company_url: "https://about.google/",
-          logo_path: "google_logo.png",
-          duration: "June 2019 - April 2020",
-          location: "Hyderabad, Telangana",
+          title: "Digital Champion",
+          company: "Doddridge Centre",
+          company_url: "https://en-gb.facebook.com/Doddridgeandstjames",
+          logo_path: "Doddridge_Centre.jpg",
+          duration: "September 2017 - November 2017",
+          location: "Northampton, Northamptonshire",
           description:
-            "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+            "Mentored elders on their first experience with a computer. Taught new volunteers how to deliver the course..",
           color: "#4285F4",
         },
+        /*
         {
           title: "Microsoft Student Partner",
           company: "Microsoft",
@@ -671,7 +631,8 @@ const experience = {
 // Projects Page
 const projectsHeader = {
   title: "Projects",
-  description: "",
+  description:
+    "My projects range use different languages from high level to low level to complete a variety of tasks. The project for this website blaze21777 ",
   avatar_image_path: "projects_image.svg",
 };
 /*
