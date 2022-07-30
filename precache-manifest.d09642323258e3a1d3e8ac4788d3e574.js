@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86355c656386803964a8b26ef3c294e5",
+    "revision": "3fa9b2c9c4524bbca176b87641ad1910",
     "url": "/blaze21777/index.html"
   },
   {
-    "revision": "5f33dbf146f3a845663a",
+    "revision": "af77151bd17de7549490",
     "url": "/blaze21777/static/css/main.3406f99d.chunk.css"
   },
   {
-    "revision": "62402a3836cb1f1adf9a",
-    "url": "/blaze21777/static/js/2.3fd4fc13.chunk.js"
+    "revision": "b2355df2932c09c04509",
+    "url": "/blaze21777/static/js/2.1720776b.chunk.js"
   },
   {
-    "revision": "5f33dbf146f3a845663a",
-    "url": "/blaze21777/static/js/main.adfa5708.chunk.js"
+    "revision": "af77151bd17de7549490",
+    "url": "/blaze21777/static/js/main.8a186b2a.chunk.js"
   },
   {
     "revision": "ac7c7dd8e6b9998c4d0f",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/blaze21777/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "53a1827e657af3c334547bfe58260582",
+    "url": "/blaze21777/static/media/Doddridge_Centre.53a1827e.jpg"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
@@ -52,8 +56,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blaze21777/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "796de2ed4f5858822e147f602aa7bed0",
-    "url": "/blaze21777/static/media/abaco-logo.796de2ed.svg"
+    "revision": "2eb7d264c823a617fb0bac56e1c4fe8f",
+    "url": "/blaze21777/static/media/Rockborne-LinkedIn-Header-Image-Red.2eb7d264.jpg"
+  },
+  {
+    "revision": "8e1b514848d9c9d2b03674887dfff8d8",
+    "url": "/blaze21777/static/media/Rockborne-logo-red.8e1b5148.jpg"
+  },
+  {
+    "revision": "e185ca9233577a345385936cab6ddbb0",
+    "url": "/blaze21777/static/media/abaco-logo.e185ca92.svg"
   },
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
@@ -210,6 +222,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fbb37669ebca28d6900186469afd9f00",
     "url": "/blaze21777/static/media/lboro_logo.fbb37669.png"
+  },
+  {
+    "revision": "5af61aefd428fe163ab334bc893e65c1",
+    "url": "/blaze21777/static/media/lboro_logo_2.5af61aef.png"
   },
   {
     "revision": "c597fbded5de799dfb9abc3fc4f1c26f",
