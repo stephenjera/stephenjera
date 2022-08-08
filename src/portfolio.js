@@ -559,7 +559,7 @@ const experience = {
           duration: "August 2020 - July 2021",
           location: "Towcester, Northamptonshire",
           description:
-            "Abaco Systems designs a COTS rugged embedded computing products. I completed LabVIEW cores 1, 2, 3 object orientated design. With this knowledge in conjunction with NI TestStand I created drivers for a thermal chamber and a full test solution for one of Abaco's single board computers.",
+            "Abaco Systems designs COTS rugged embedded computing products. I completed LabVIEW cores 1, 2, 3 object orientated design. With this knowledge in conjunction with NI TestStand I created drivers for a thermal chamber and a full test solution for one of Abaco's single board computers.",
           color: "#4285F4",
         },
       ],
