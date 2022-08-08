@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Stephen Jeranyama",
   nickname: "",
   subTitle:
-    "A recent graduate looking to explore the world of data, artificial intelligence and machine learning",
+    "A recent graduate looking to explore the world of data, artificial intelligence, machine learning and embedded systems.",
   resumeLink: "test",
   portfolio_repository: "https://github.com/blaze21777/blaze21777",
   githubProfile: "https://github.com/blaze21777",
@@ -91,8 +91,8 @@ const skills = {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Experience developing LSTMs and CNN models for Automatic Music Transcription",
-        "⚡ Using random forests and SVMs for feature selection and predictions",
+        "⚡ Experience developing LSTMs and CNN models for Automatic Music Transcription.",
+        "⚡ Using random forests and SVMs for feature selection and predictions.",
       ],
       softwareSkills: [
         {
@@ -148,7 +148,8 @@ const skills = {
       title: "Embedded Systems",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Designing embedded software for Arduinos, Raspberry Pis and STM32s",
+        "⚡ Designing embedded software for Arduinos, Raspberry Pis and STM32s.",
+        "⚡ Circuit designs for robotics and embedded hardware.",
       ],
       softwareSkills: [
         {
@@ -387,12 +388,12 @@ const degrees = {
   degrees: [
     {
       title: "Loughborough University",
-      subtitle: "MEng(Hons) Electronic and Computer Systems Engineering",
+      subtitle: "MEng(Hons) DIS Electronic and Computer Systems Engineering",
       //logo_path: "lboro_logo_2.png",
       alt_name: "Loughborough University",
       duration: "2016 - 2022",
       descriptions: [
-        "Electronic and Computer Systems Engineering (MEng) taught me to combine digital electronics, microprocessors and software to develop and enable the potential of embedded computer systems.",
+        "Electronic and Computer Systems Engineering taught me to combine digital electronics, microprocessors and software to develop and enable the potential of embedded computer systems.",
         "Key Modules:",
         "⚡ Machine Learning - Principles and Applications for Engineers",
         "⚡ Real-Time Software Engineering",
@@ -526,7 +527,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteering",
   description:
-    "I have gained experience on my placement as a Test Automation Engineer and my university projects varying from robotics design and machine learning",
+    "I have gained experience on my placement as a Test Automation Engineer and my university projects varying from robotics design, machine learning and programming in several languages such as C/C++, Python and LabVIEW.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -539,8 +540,10 @@ const experience = {
           logo_path: "Rockborne-logo-red.jpg",
           duration: "July 2022 - PRESENT",
           location: "Wimbeldon, London",
-          description:
+          description: [
             "Rockborne are an expert provider of specialist Data & Analytics consultants. They employ diverse, talented, and ambitious STEM graduates. They then immerse them in a powerful combination of bespoke technical, business, and interpersonal training to meet the needs of leading UK companies.",
+            " The core topics covered include learning presentation skills, business intelligence tools e.g. Tableau, advanced Excel formula skills, pivot tables and SQL.",
+          ],
           color: "#4285F4",
         },
       ],
@@ -556,7 +559,7 @@ const experience = {
           duration: "August 2020 - July 2021",
           location: "Towcester, Northamptonshire",
           description:
-            "Abaco Systems designs a COTS rugged embedded computing products. I completed LabVIEW cores 1,2 and 3 and used the knowledge in conjuction with NI Teststand to create drivers for a thermal chamber and a full test solution for one of Abaco's single board computers.",
+            "Abaco Systems designs a COTS rugged embedded computing products. I completed LabVIEW cores 1, 2, 3 object orientated design. With this knowledge in conjunction with NI TestStand I created drivers for a thermal chamber and a full test solution for one of Abaco's single board computers.",
           color: "#4285F4",
         },
       ],
@@ -632,7 +635,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects range use different languages from high level to low level to complete a variety of tasks. The project for this website blaze21777 ",
+    "My projects use a range of different languages from high level to low level to complete a variety of tasks. The project used to create this website is blaze21777.",
   avatar_image_path: "projects_image.svg",
 };
 /*
