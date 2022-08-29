@@ -381,6 +381,14 @@ const competitiveSites = {
       },
       profileLink: "https://www.sololearn.com/profile/933118",
     },
+    {
+      siteName: "Codewars",
+      iconifyClassname: "simple-icons:codewars",
+      style: {
+        color: "#de684f",
+      },
+      profileLink: "https://www.codewars.com/users/blaze21777",
+    },
   ],
 };
 
