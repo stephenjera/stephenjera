@@ -389,6 +389,14 @@ const competitiveSites = {
       },
       profileLink: "https://www.codewars.com/users/blaze21777",
     },
+    {
+      siteName: "Plurasight",
+      iconifyClassname: "logos:pluralsight-icon",
+      style: {
+        color: "#de684f",
+      },
+      profileLink: "https://app.pluralsight.com/profile/stephen-jeranyama",
+    },
   ],
 };
 
