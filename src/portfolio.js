@@ -93,6 +93,7 @@ const skills = {
       skills: [
         "⚡ Experience developing LSTMs and CNN models for Automatic Music Transcription.",
         "⚡ Using random forests and SVMs for feature selection and predictions.",
+        "⚡ Predictions using Linear Regression techniques on weather data.",
       ],
       softwareSkills: [
         {
@@ -137,6 +138,14 @@ const skills = {
         {
           skillName: "MySQL",
           fontAwesomeClassname: "logos:mysql",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Docker",
+          fontAwesomeClassname: "logos:docker-icon",
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
@@ -555,10 +564,15 @@ const experience = {
           company_url: "https://rockborne.com/",
           logo_path: "Rockborne-logo-red.jpg",
           duration: "July 2022 - PRESENT",
-          location: "Wimbeldon, London",
+          location: "London",
           description: [
-            "Rockborne are an expert provider of specialist Data & Analytics consultants. They employ diverse, talented, and ambitious STEM graduates. They then immerse them in a powerful combination of bespoke technical, business, and interpersonal training to meet the needs of leading UK companies.",
-            " The core topics covered include learning presentation skills, business intelligence tools e.g. Tableau, advanced Excel formula skills, pivot tables and SQL.",
+            "Rockborne is an expert provider of specialist Data & Analytics consultants. ",
+            "Rockborne provides bespoke technical, business, and interpersonal training. ",
+            "Bikeshare SQL Project: I cleaned and explored the Divvy bikes dataset, using joins, CTEs ",
+            "and views in PostgreSQL and created visualisations in Excel to answer business questions ",
+            "to present to stakeholders. ",
+            "Superstore Excel Project: Utilising Excel pivot tables and charts, a dashboard showing ",
+            "KPIs of the Superstore dataset was created and presented to stakeholders.",
           ],
           color: "#4285F4",
         },
@@ -574,8 +588,15 @@ const experience = {
           logo_path: "abaco_logo.jpg",
           duration: "August 2020 - July 2021",
           location: "Towcester, Northamptonshire",
-          description:
-            "Abaco Systems designs COTS rugged embedded computing products. I completed LabVIEW cores 1, 2, 3 object orientated design. With this knowledge in conjunction with NI TestStand I created drivers for a thermal chamber and a full test solution for one of Abaco's single board computers.",
+          description: [
+            "Abaco Systems designs COTS rugged embedded computing products. During this placement I ",
+            "created drivers for controlling thermal chambers using LabVIEW, ",
+            "created test solutions for single board computers with a Linux OS using NI TestStand, ",
+            "updated and created requirements documents for software development using ",
+            "Dynamic Object-Oriented Requirements System (Doors), ",
+            "Used agile software development, Jira, to plan and complete biweekly tasks and ",
+            "used Perforce version control system to track changes in development, main and released code.",
+          ],
           color: "#4285F4",
         },
       ],
@@ -591,8 +612,10 @@ const experience = {
           logo_path: "Doddridge_Centre.jpg",
           duration: "September 2017 - November 2017",
           location: "Northampton, Northamptonshire",
-          description:
-            "Mentored elders on their first experience with a computer. Taught new volunteers how to deliver the course..",
+          description: [
+            "I Mentored elders on their first experience with a computer to help them build new skills to apply for jobs ",
+            "and I taught new volunteers how to deliver the Digital Champion course. ",
+          ],
           color: "#4285F4",
         },
         /*
@@ -650,8 +673,10 @@ const experience = {
 // Projects Page
 const projectsHeader = {
   title: "Projects",
-  description:
-    "My projects use a range of different languages from high level to low level to complete a variety of tasks. The project used to create this website is blaze21777.",
+  description: [
+    "My projects focus on developing good programming skills and implementing best practices in a practical manner. They utilise different languages to ",
+    "build upon the fundamentals that are constant across all languages.",
+  ],
   avatar_image_path: "projects_image.svg",
 };
 /*

@@ -11,6 +11,14 @@
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "MATLAB",
+          "iconifyClass": "vscode-icons:file-type-matlab"
         }
       ]
     },
@@ -47,6 +55,50 @@
         {
           "name": "C++",
           "iconifyClass": "logos:c-plusplus"
+        },
+        {
+          "name": "Arduino",
+          "iconifyClass": "vscode-icons:file-type-arduino"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHxPhhQ",
+      "name": "Kaggle-Projects",
+      "createdAt": "2022-08-04T19:48:17Z",
+      "url": "https://github.com/blaze21777/Kaggle-Projects",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "Docker",
+          "iconifyClass": "logos:docker-icon"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHvvspw",
+      "name": "RaspberryPi-Projects",
+      "createdAt": "2022-07-31T16:19:46Z",
+      "url": "https://github.com/blaze21777/RaspberryPi-Projects",
+      "description": "Raspberry Pi projects",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Raspberry Pi",
+          "iconifyClass": "logos:raspberry-pi"
         }
       ]
     },
@@ -59,48 +111,12 @@
       "isFork": false,
       "languages": [
         {
+          "name": "React",
+          "iconifyClass": "logos:react"
+        },
+        {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOHbpwEA",
-      "name": "SQL-Projects",
-      "createdAt": "2022-06-01T13:55:00Z",
-      "url": "https://github.com/blaze21777/SQL-Projects",
-      "description": null,
-      "isFork": false,
-      "languages": [
-        {
-          "name": "PostgreSQL",
-          "iconifyClass": "logos:postgresql"
-        },
-        {
-          "name": "MySQL",
-          "iconifyClass": "logos:mysql"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkxOTQ2NDAxMDg=",
-      "name": "VHDL-Projects",
-      "createdAt": "2019-07-01T09:16:00Z",
-      "url": "https://github.com/blaze21777/VHDL-Projects",
-      "description": null,
-      "isFork": false,
-      "languages": [
-        {
-          "name": "VHDL-Projects",
-          "iconifyClass": "vscode-icons:file-type-vhdl"
         }
       ]
     }
