@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "masterPortfolio",
-  "homepage": "https://blaze21777.github.io/blaze21777/",
+  "homepage": "https://stephenjera.github.io/stephenjera/",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",

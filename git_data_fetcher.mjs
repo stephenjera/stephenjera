@@ -3,7 +3,7 @@ import fs from 'fs';
 
 const openSource = {
   githubConvertedToken: "",
-  githubUserName: "blaze21777",
+  githubUserName: "stephenjera",
 };
 
 const query_pr = {
@@ -255,6 +255,9 @@ const languages_icons = {
   PHP: "logos-php",
   Dockerfile: "simple-icons:docker",
   Rust: "logos-rust",
+  Matlab: "vscode-icons:file-type-matlab",
+  C: "logos:c",
+  "C++" : "logos:c-plusplus"
 };
 
 fetch(baseUrl, {
