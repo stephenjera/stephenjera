@@ -9,8 +9,12 @@ import "./index.css";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 import "./assests/font-awesome/css/all.css";
+import ReactGA from "react-ga4";
 
 const engine = new Styletron();
+const GA_MEASUREMENT_ID = "G-4BYRX7YQJG";
+
+ReactGA.initialize(GA_MEASUREMENT_ID);
 
 ReactDOM.render(
   <StyletronProvider value={engine}>
