@@ -15,6 +15,7 @@ const engine = new Styletron();
 const GA_MEASUREMENT_ID = "G-4BYRX7YQJG";
 
 ReactGA.initialize(GA_MEASUREMENT_ID);
+ReactGA.send("pageview");
 
 ReactDOM.render(
   <StyletronProvider value={engine}>
