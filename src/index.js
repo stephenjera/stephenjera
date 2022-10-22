@@ -16,7 +16,7 @@ const engine = new Styletron();
 // const GA_MEASUREMENT_ID = "G-4BYRX7YQJG";
 // ReactGA.initialize(GA_MEASUREMENT_ID);
 // ReactGA.send("pageview");
-const ga4react = new GA4React("G-4BYRX7YQJG");
+const ga4react = new GA4React("G-986MMT705B");
 ga4react.initialize().then().catch();
 
 ReactDOM.render(
@@ -30,7 +30,7 @@ ReactDOM.render(
 
 try {
   setTimeout((_) => {
-    const ga4react = new GA4React("G-4BYRX7YQJG");
+    const ga4react = new GA4React("G-986MMT705B");
     ga4react.initialize().catch((err) => console.error(err));
   }, 4000);
 } catch (err) {
