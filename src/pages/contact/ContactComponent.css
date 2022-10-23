@@ -57,6 +57,7 @@
 .contact-heading-img-div > * {
   max-width: 100%;
   height: auto;
+  margin: auto;
 }
 
 .blog-heading-img-div > * {
@@ -79,7 +80,8 @@
   font-family: "Google Sans Medium";
   line-height: 1.1;
   text-align: center;
-  margin-top: 40px;
+  /*margin-top: 40px;*/
+  margin: auto;
 }
 
 .address-heading-text {
