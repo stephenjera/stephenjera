@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Stephen Portfolio",
     type: "website",
-    url: "https://blaze21777.github.io/blaze21777/",
+    url: "https://stephenjera.github.io/stephenjera/",
   },
 };
 
@@ -25,8 +25,8 @@ const greeting = {
   subTitle:
     "A recent graduate looking to explore the world of data, artificial intelligence, machine learning and embedded systems.",
   resumeLink: "test",
-  portfolio_repository: "https://github.com/blaze21777/blaze21777",
-  githubProfile: "https://github.com/blaze21777",
+  portfolio_repository: "https://github.com/stephenjera/stephenjera",
+  githubProfile: "https://github.com/stephenjera",
 };
 
 const socialMediaLinks = [
@@ -41,7 +41,7 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/blaze21777",
+    link: "https://github.com/stephenjera",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
@@ -434,7 +434,6 @@ const degrees = {
 
 const certifications = {
   certifications: [
-    /*
     {
       title: "Machine Learning",
       subtitle: "- Andrew Ng",
@@ -444,6 +443,7 @@ const certifications = {
       alt_name: "Stanford University",
       color_code: "#8C151599",
     },
+    /*
     {
       title: "Deep Learning",
       subtitle: "- Andrew Ng",
