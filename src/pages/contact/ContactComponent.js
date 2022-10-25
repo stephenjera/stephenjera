@@ -3,19 +3,19 @@ import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 import TopButton from "../../components/topButton/TopButton";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
-import Button from "../../components/button/Button";
-import BlogsImg from "./BlogsImg";
+//import Button from "../../components/button/Button";
+//import BlogsImg from "./BlogsImg";
 import AddressImg from "./AddressImg";
 import { Fade } from "react-reveal";
 import "./ContactComponent.css";
-import { greeting, contactPageData } from "../../portfolio.js";
+import { /*greeting,*/ contactPageData } from "../../portfolio.js";
 
 import ContactForm from "../../components/contactForm/contactForm";
 
 const ContactData = contactPageData.contactSection;
-const blogSection = contactPageData.blogSection;
-const addressSection = contactPageData.addressSection;
-const phoneSection = contactPageData.phoneSection;
+//const blogSection = contactPageData.blogSection;
+//const addressSection = contactPageData.addressSection;
+//const phoneSection = contactPageData.phoneSection;
 
 class Contact extends Component {
   render() {
