@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/stephenjera/static/css/main.ca2a6125.chunk.css",
-    "main.js": "/stephenjera/static/js/main.d671b39b.chunk.js",
-    "main.js.map": "/stephenjera/static/js/main.d671b39b.chunk.js.map",
+    "main.css": "/stephenjera/static/css/main.963d1946.chunk.css",
+    "main.js": "/stephenjera/static/js/main.1b0e4f33.chunk.js",
+    "main.js.map": "/stephenjera/static/js/main.1b0e4f33.chunk.js.map",
     "runtime-main.js": "/stephenjera/static/js/runtime-main.48472e51.js",
     "runtime-main.js.map": "/stephenjera/static/js/runtime-main.48472e51.js.map",
-    "static/js/2.b08ac11e.chunk.js": "/stephenjera/static/js/2.b08ac11e.chunk.js",
-    "static/js/2.b08ac11e.chunk.js.map": "/stephenjera/static/js/2.b08ac11e.chunk.js.map",
+    "static/js/2.6b78f3ed.chunk.js": "/stephenjera/static/js/2.6b78f3ed.chunk.js",
+    "static/js/2.6b78f3ed.chunk.js.map": "/stephenjera/static/js/2.6b78f3ed.chunk.js.map",
     "index.html": "/stephenjera/index.html",
-    "precache-manifest.e97ce159077271f1ec60481911b1979e.js": "/stephenjera/precache-manifest.e97ce159077271f1ec60481911b1979e.js",
+    "precache-manifest.bc1cbf7bc837d7e40f434fa06acdd69e.js": "/stephenjera/precache-manifest.bc1cbf7bc837d7e40f434fa06acdd69e.js",
     "service-worker.js": "/stephenjera/service-worker.js",
-    "static/css/main.ca2a6125.chunk.css.map": "/stephenjera/static/css/main.ca2a6125.chunk.css.map",
+    "static/css/main.963d1946.chunk.css.map": "/stephenjera/static/css/main.963d1946.chunk.css.map",
     "static/media/index.css": "/stephenjera/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Applied_Data_Science_with_Python.png": "/stephenjera/static/media/Applied_Data_Science_with_Python.ded85f8b.png",
+    "static/media/Data_Sci_Foundations_Level_2_-_CC_-_2019.png": "/stephenjera/static/media/Data_Sci_Foundations_Level_2_-_CC_-_2019.b3a966e7.png",
     "static/media/Doddridge_Centre.jpg": "/stephenjera/static/media/Doddridge_Centre.53a1827e.jpg",
     "static/media/Rockborne-LinkedIn-Header-Image-Red.jpg": "/stephenjera/static/media/Rockborne-LinkedIn-Header-Image-Red.2eb7d264.jpg",
     "static/media/Rockborne-logo-red.jpg": "/stephenjera/static/media/Rockborne-logo-red.8e1b5148.jpg",
@@ -19,6 +21,7 @@
     "static/media/address_image.svg": "/stephenjera/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/stephenjera/static/media/animated_ashutosh.be4f4800.png",
     "static/media/animated_logo.svg": "/stephenjera/static/media/animated_logo.dcd6dee2.svg",
+    "static/media/azure-data-fundamentals-600x600.png": "/stephenjera/static/media/azure-data-fundamentals-600x600.cb63b250.png",
     "static/media/blogs_image.svg": "/stephenjera/static/media/blogs_image.058eca4c.svg",
     "static/media/cloud_infrastructure.svg": "/stephenjera/static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "/stephenjera/static/media/codeInLogo.fee92c18.png",
@@ -57,8 +60,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.48472e51.js",
-    "static/js/2.b08ac11e.chunk.js",
-    "static/css/main.ca2a6125.chunk.css",
-    "static/js/main.d671b39b.chunk.js"
+    "static/js/2.6b78f3ed.chunk.js",
+    "static/css/main.963d1946.chunk.css",
+    "static/js/main.1b0e4f33.chunk.js"
   ]
 }

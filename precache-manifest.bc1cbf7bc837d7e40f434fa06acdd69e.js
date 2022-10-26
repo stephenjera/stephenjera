@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be0e4df93952385a1b56a4a94e5dca9b",
+    "revision": "60efc92d22ae5634ce24716da9e82c93",
     "url": "/stephenjera/index.html"
   },
   {
-    "revision": "8fdb6217f41b9044516b",
-    "url": "/stephenjera/static/css/main.ca2a6125.chunk.css"
+    "revision": "604378fdea43fec1f43f",
+    "url": "/stephenjera/static/css/main.963d1946.chunk.css"
   },
   {
-    "revision": "4ca81a957424ef9f402b",
-    "url": "/stephenjera/static/js/2.b08ac11e.chunk.js"
+    "revision": "6e990548f53d09cbe8d1",
+    "url": "/stephenjera/static/js/2.6b78f3ed.chunk.js"
   },
   {
-    "revision": "8fdb6217f41b9044516b",
-    "url": "/stephenjera/static/js/main.d671b39b.chunk.js"
+    "revision": "604378fdea43fec1f43f",
+    "url": "/stephenjera/static/js/main.1b0e4f33.chunk.js"
   },
   {
     "revision": "1e4f3893e0f2b2333c78",
@@ -22,6 +22,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/stephenjera/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "ded85f8b8d5620038f65d68ae3ecbd9d",
+    "url": "/stephenjera/static/media/Applied_Data_Science_with_Python.ded85f8b.png"
+  },
+  {
+    "revision": "b3a966e7ebc68f4759135c0375b81842",
+    "url": "/stephenjera/static/media/Data_Sci_Foundations_Level_2_-_CC_-_2019.b3a966e7.png"
   },
   {
     "revision": "53a1827e657af3c334547bfe58260582",
@@ -78,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
     "url": "/stephenjera/static/media/animated_logo.dcd6dee2.svg"
+  },
+  {
+    "revision": "cb63b250efd249b3672f132b4eb96f61",
+    "url": "/stephenjera/static/media/azure-data-fundamentals-600x600.cb63b250.png"
   },
   {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
