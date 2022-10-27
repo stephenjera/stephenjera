@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/stephenjera/static/css/main.963d1946.chunk.css",
-    "main.js": "/stephenjera/static/js/main.1b0e4f33.chunk.js",
-    "main.js.map": "/stephenjera/static/js/main.1b0e4f33.chunk.js.map",
+    "main.css": "/stephenjera/static/css/main.1a3e97cc.chunk.css",
+    "main.js": "/stephenjera/static/js/main.29cb488f.chunk.js",
+    "main.js.map": "/stephenjera/static/js/main.29cb488f.chunk.js.map",
     "runtime-main.js": "/stephenjera/static/js/runtime-main.48472e51.js",
     "runtime-main.js.map": "/stephenjera/static/js/runtime-main.48472e51.js.map",
     "static/js/2.6b78f3ed.chunk.js": "/stephenjera/static/js/2.6b78f3ed.chunk.js",
     "static/js/2.6b78f3ed.chunk.js.map": "/stephenjera/static/js/2.6b78f3ed.chunk.js.map",
     "index.html": "/stephenjera/index.html",
-    "precache-manifest.bc1cbf7bc837d7e40f434fa06acdd69e.js": "/stephenjera/precache-manifest.bc1cbf7bc837d7e40f434fa06acdd69e.js",
+    "precache-manifest.280c42db69b7dbb67de4dcfec7c6c8af.js": "/stephenjera/precache-manifest.280c42db69b7dbb67de4dcfec7c6c8af.js",
     "service-worker.js": "/stephenjera/service-worker.js",
-    "static/css/main.963d1946.chunk.css.map": "/stephenjera/static/css/main.963d1946.chunk.css.map",
+    "static/css/main.1a3e97cc.chunk.css.map": "/stephenjera/static/css/main.1a3e97cc.chunk.css.map",
     "static/media/index.css": "/stephenjera/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Applied_Data_Science_with_Python.png": "/stephenjera/static/media/Applied_Data_Science_with_Python.ded85f8b.png",
     "static/media/Data_Sci_Foundations_Level_2_-_CC_-_2019.png": "/stephenjera/static/media/Data_Sci_Foundations_Level_2_-_CC_-_2019.b3a966e7.png",
@@ -61,7 +61,7 @@
   "entrypoints": [
     "static/js/runtime-main.48472e51.js",
     "static/js/2.6b78f3ed.chunk.js",
-    "static/css/main.963d1946.chunk.css",
-    "static/js/main.1b0e4f33.chunk.js"
+    "static/css/main.1a3e97cc.chunk.css",
+    "static/js/main.29cb488f.chunk.js"
   ]
 }
