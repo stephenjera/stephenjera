@@ -4,6 +4,7 @@
   border-radius: 10px;
   display: flex;
   flex-direction: row;
+  font-size: 18px;
 }
 
 .experience-card-logo-div {
