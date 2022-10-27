@@ -438,8 +438,7 @@ const certifications = {
       title: "DP-900 Azure Data Fundementals",
       subtitle: "",
       logo_path: "azure-data-fundamentals-600x600.png",
-      certificate_link:
-        "https://www.credly.com/earner/earned/badge/0dbf22de-bdfb-49a1-a2a6-d770d26e1eab",
+      certificate_link: "https://www.credly.com/users/stephen-jeranyama/badges",
       alt_name: "Azure Data Fundamentals",
       color_code: "#FFFFFF",
     },
@@ -448,8 +447,7 @@ const certifications = {
       title: "Data Science Foundations - Level 2",
       subtitle: "",
       logo_path: "Data_Sci_Foundations_Level_2_-_CC_-_2019.png",
-      certificate_link:
-        "https://www.credly.com/earner/earned/badge/ef4e0e16-1770-44ac-bf3c-1e5cfd844758",
+      certificate_link: "https://www.credly.com/users/stephen-jeranyama/badges",
       alt_name: "Data Science Foundations",
       color_code: "#FFFFFF",
     },
@@ -458,8 +456,7 @@ const certifications = {
       title: "Applied Data Science with Python - Level 2",
       subtitle: "",
       logo_path: "Applied_Data_Science_with_Python.png",
-      certificate_link:
-        "https://www.credly.com/earner/earned/badge/eabc5650-e234-4020-ad63-3249eefa75e2",
+      certificate_link: "https://www.credly.com/users/stephen-jeranyama/badges",
       alt_name: "Applied Data Science with Python",
       color_code: "#FFFFFF",
     },
