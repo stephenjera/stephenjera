@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/stephenjera/static/css/main.1a3e97cc.chunk.css",
-    "main.js": "/stephenjera/static/js/main.eb648e47.chunk.js",
-    "main.js.map": "/stephenjera/static/js/main.eb648e47.chunk.js.map",
+    "main.js": "/stephenjera/static/js/main.13bc0bf1.chunk.js",
+    "main.js.map": "/stephenjera/static/js/main.13bc0bf1.chunk.js.map",
     "runtime-main.js": "/stephenjera/static/js/runtime-main.48472e51.js",
     "runtime-main.js.map": "/stephenjera/static/js/runtime-main.48472e51.js.map",
-    "static/js/2.975301d8.chunk.js": "/stephenjera/static/js/2.975301d8.chunk.js",
-    "static/js/2.975301d8.chunk.js.map": "/stephenjera/static/js/2.975301d8.chunk.js.map",
+    "static/js/2.5bd63d97.chunk.js": "/stephenjera/static/js/2.5bd63d97.chunk.js",
+    "static/js/2.5bd63d97.chunk.js.map": "/stephenjera/static/js/2.5bd63d97.chunk.js.map",
     "index.html": "/stephenjera/index.html",
-    "precache-manifest.abe484e18a6ca9d32f23aa8508244e1c.js": "/stephenjera/precache-manifest.abe484e18a6ca9d32f23aa8508244e1c.js",
+    "precache-manifest.e21e0baae1e1e188fcb433f010b96666.js": "/stephenjera/precache-manifest.e21e0baae1e1e188fcb433f010b96666.js",
     "service-worker.js": "/stephenjera/service-worker.js",
     "static/css/main.1a3e97cc.chunk.css.map": "/stephenjera/static/css/main.1a3e97cc.chunk.css.map",
     "static/media/index.css": "/stephenjera/static/media/Montserrat-Regular.ee653992.ttf",
@@ -17,6 +17,10 @@
     "static/media/Doddridge_Centre.jpg": "/stephenjera/static/media/Doddridge_Centre.53a1827e.jpg",
     "static/media/Rockborne-LinkedIn-Header-Image-Red.jpg": "/stephenjera/static/media/Rockborne-LinkedIn-Header-Image-Red.2eb7d264.jpg",
     "static/media/Rockborne-logo-red.jpg": "/stephenjera/static/media/Rockborne-logo-red.8e1b5148.jpg",
+    "static/media/Snowflake-Data-Lake.png": "/stephenjera/static/media/Snowflake-Data-Lake.c29a9b67.png",
+    "static/media/Snowflake-Essentials-Data-Applications_2x.png": "/stephenjera/static/media/Snowflake-Essentials-Data-Applications_2x.e9f970ae.png",
+    "static/media/Snowflake-Essentials-Data-Sharing_2x.png": "/stephenjera/static/media/Snowflake-Essentials-Data-Sharing_2x.eeb31bd9.png",
+    "static/media/Snowflake-Essentials-Data-Warehouse_2x.png": "/stephenjera/static/media/Snowflake-Essentials-Data-Warehouse_2x.a11570f4.png",
     "static/media/abaco-logo.svg": "/stephenjera/static/media/abaco-logo.e185ca92.svg",
     "static/media/address_image.svg": "/stephenjera/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/stephenjera/static/media/animated_ashutosh.be4f4800.png",
@@ -60,8 +64,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.48472e51.js",
-    "static/js/2.975301d8.chunk.js",
+    "static/js/2.5bd63d97.chunk.js",
     "static/css/main.1a3e97cc.chunk.css",
-    "static/js/main.eb648e47.chunk.js"
+    "static/js/main.13bc0bf1.chunk.js"
   ]
 }

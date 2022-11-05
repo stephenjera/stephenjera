@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b6e3e2a7ef724a8dfceafe2f1548760",
+    "revision": "0b3aa7ec43080877ed68ee888d761056",
     "url": "/stephenjera/index.html"
   },
   {
-    "revision": "187b6a14b89ae1a2dc2c",
+    "revision": "537493cea609076d59e5",
     "url": "/stephenjera/static/css/main.1a3e97cc.chunk.css"
   },
   {
-    "revision": "c384544b70d04c3a31c0",
-    "url": "/stephenjera/static/js/2.975301d8.chunk.js"
+    "revision": "104b430c9ee6c91030f9",
+    "url": "/stephenjera/static/js/2.5bd63d97.chunk.js"
   },
   {
-    "revision": "187b6a14b89ae1a2dc2c",
-    "url": "/stephenjera/static/js/main.eb648e47.chunk.js"
+    "revision": "537493cea609076d59e5",
+    "url": "/stephenjera/static/js/main.13bc0bf1.chunk.js"
   },
   {
     "revision": "1e4f3893e0f2b2333c78",
@@ -70,6 +70,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8e1b514848d9c9d2b03674887dfff8d8",
     "url": "/stephenjera/static/media/Rockborne-logo-red.8e1b5148.jpg"
+  },
+  {
+    "revision": "c29a9b67711212d8fbeeb4626a014e6f",
+    "url": "/stephenjera/static/media/Snowflake-Data-Lake.c29a9b67.png"
+  },
+  {
+    "revision": "e9f970aef20f280158e661772178cb3f",
+    "url": "/stephenjera/static/media/Snowflake-Essentials-Data-Applications_2x.e9f970ae.png"
+  },
+  {
+    "revision": "eeb31bd9549addb5e25e2552ac7b2127",
+    "url": "/stephenjera/static/media/Snowflake-Essentials-Data-Sharing_2x.eeb31bd9.png"
+  },
+  {
+    "revision": "a11570f46886ae48bec5d508d986f7a5",
+    "url": "/stephenjera/static/media/Snowflake-Essentials-Data-Warehouse_2x.a11570f4.png"
   },
   {
     "revision": "e185ca9233577a345385936cab6ddbb0",
