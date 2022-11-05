@@ -31,13 +31,8 @@ const greeting = {
 
 const socialMediaLinks = [
   /* Your Social Media Link */
-  // github: "https://github.com/blaze21777".
+  // github: "https://github.com/stephenjera".
   // linkedin: "https://www.linkedin.com/in/stephen-j-298727115/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
 
   {
     name: "Github",
@@ -51,38 +46,12 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
-  /*
-  {
-    name: "YouTube",
-    link: "https://www.youtube.com/channel/UC_amoXmmxSY9KusoDczDTXQ",
-    fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
-    backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
-  },
-  {
-    name: "Gmail",
-    link: "mailto:ashutoshhathidara98@gmail.com",
-    fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
-    backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
-  },
-  {
-    name: "Twitter",
-    link: "https://twitter.com/ashutosh_1919",
-    fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
-    backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
-  },
-  {
-    name: "Facebook",
-    link: "https://www.facebook.com/laymanbrother.19/",
-    fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
-    backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
-  },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/layman_brother/",
+    link: "https://www.instagram.com/stephenjeranyama/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
-  */
 ];
 
 const skills = {
@@ -198,160 +167,6 @@ const skills = {
         },
       ],
     },
-    /*
-    {
-      title: "Full Stack Development",
-      fileName: "FullStackImg",
-      skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
-      ],
-      softwareSkills: [
-        {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
-          style: {
-            color: "#E34F26",
-          },
-        },
-        {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
-          style: {
-            color: "#1572B6",
-          },
-        },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
-        {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
-          style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
-          },
-        },
-        {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB",
-          },
-        },
-        {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
-          style: {
-            color: "#339933",
-          },
-        },
-        {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
-        },
-        {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
-      ],
-    },
-    */
-    /*
-    {
-      title: "Cloud Infra-Architecture",
-      fileName: "CloudInfraImg",
-      skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
-      ],
-      softwareSkills: [
-        {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4",
-          },
-        },
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
-          style: {
-            color: "#FF9900",
-          },
-        },
-        {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
-          style: {
-            color: "#0089D6",
-          },
-        },
-        {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
-          },
-        },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
-          },
-        },
-        {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5",
-          },
-        },
-      ],
-    },
-    */
   ],
 };
 
@@ -442,7 +257,6 @@ const certifications = {
       alt_name: "Azure Data Fundamentals",
       color_code: "#FFFFFF",
     },
-
     {
       title: "Data Science Foundations - Level 2",
       subtitle: "",
@@ -451,13 +265,44 @@ const certifications = {
       alt_name: "Data Science Foundations",
       color_code: "#FFFFFF",
     },
-
     {
       title: "Applied Data Science with Python - Level 2",
       subtitle: "",
       logo_path: "Applied_Data_Science_with_Python.png",
       certificate_link: "https://www.credly.com/users/stephen-jeranyama/badges",
       alt_name: "Applied Data Science with Python",
+      color_code: "#FFFFFF",
+    },
+    {
+      title: "Snowflake Hands On Essentials - Data Warehouse",
+      subtitle: "",
+      logo_path: "Snowflake-Essentials-Data-Warehouse_2x.png",
+      certificate_link: "https://www.credly.com/users/stephen-jeranyama/badges",
+      alt_name: "Snowflake Hands On Essentials - Data Warehouse",
+      color_code: "#FFFFFF",
+    },
+    {
+      title: "Snowflake Hands On Essentials - Data Applications",
+      subtitle: "",
+      logo_path: "Snowflake-Essentials-Data-Applications_2x.png",
+      certificate_link: "https://www.credly.com/users/stephen-jeranyama/badges",
+      alt_name: "Hands On Essentials - Data Applications",
+      color_code: "#FFFFFF",
+    },
+    {
+      title: "Snowflake Hands On Essentials - Data Sharing",
+      subtitle: "",
+      logo_path: "Snowflake-Essentials-Data-Sharing_2x.png",
+      certificate_link: "https://www.credly.com/users/stephen-jeranyama/badges",
+      alt_name: "Hands On Essentials - Data Sharing",
+      color_code: "#FFFFFF",
+    },
+    {
+      title: "Snowflake Hands On Essentials - Data Lake",
+      subtitle: "",
+      logo_path: "Snowflake-Data-Lake.png",
+      certificate_link: "https://www.credly.com/users/stephen-jeranyama/badges",
+      alt_name: "Hands On Essentials - Data Lake",
       color_code: "#FFFFFF",
     },
   ],
