@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Stephen Jeranyama",
   nickname: "",
   subTitle:
-    "A recent graduate looking to explore the world of data, artificial intelligence, machine learning and embedded systems.",
+    "I am experienced in building software for Data Science, Machine Learning, Data Engineering and Embedded Systems.",
   resumeLink: "test",
   portfolio_repository: "https://github.com/stephenjera/stephenjera",
   githubProfile: "https://github.com/stephenjera",
@@ -66,6 +66,14 @@ const skills = {
       ],
       softwareSkills: [
         {
+          skillName: "Python",
+          fontAwesomeClassname: "ion-logo-python",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
           skillName: "Tensorflow",
           fontAwesomeClassname: "logos-tensorflow",
           style: {
@@ -81,16 +89,35 @@ const skills = {
           },
         },
         {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
+          skillName: "Jupyter Notebooks",
+          fontAwesomeClassname: "logos:jupyter",
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
           },
         },
         {
-          skillName: "Jupyter Notebooks",
-          fontAwesomeClassname: "logos:jupyter",
+          skillName: "Power BI",
+          fontAwesomeClassname: "logos:microsoft-power-bi",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+      ],
+    },
+    {
+      title: "Data Engineering",
+      fileName: "ProgrammerImg",
+      skills: [
+        "⚡ Designing and developing relational databases",
+        "⚡ Integrating snowflake backend to web apps.",
+        "⚡ Containerizing databases with Docker",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Snowflake",
+          fontAwesomeClassname: "logos:snowflake-icon",
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
@@ -115,6 +142,14 @@ const skills = {
         {
           skillName: "Docker",
           fontAwesomeClassname: "logos:docker-icon",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Azure",
+          fontAwesomeClassname: "logos:microsoft-azure",
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
