@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/stephenjera/static/css/main.1a3e97cc.chunk.css",
-    "main.js": "/stephenjera/static/js/main.13bc0bf1.chunk.js",
-    "main.js.map": "/stephenjera/static/js/main.13bc0bf1.chunk.js.map",
+    "main.js": "/stephenjera/static/js/main.500f68e9.chunk.js",
+    "main.js.map": "/stephenjera/static/js/main.500f68e9.chunk.js.map",
     "runtime-main.js": "/stephenjera/static/js/runtime-main.48472e51.js",
     "runtime-main.js.map": "/stephenjera/static/js/runtime-main.48472e51.js.map",
-    "static/js/2.5bd63d97.chunk.js": "/stephenjera/static/js/2.5bd63d97.chunk.js",
-    "static/js/2.5bd63d97.chunk.js.map": "/stephenjera/static/js/2.5bd63d97.chunk.js.map",
+    "static/js/2.7a2f1659.chunk.js": "/stephenjera/static/js/2.7a2f1659.chunk.js",
+    "static/js/2.7a2f1659.chunk.js.map": "/stephenjera/static/js/2.7a2f1659.chunk.js.map",
     "index.html": "/stephenjera/index.html",
-    "precache-manifest.e21e0baae1e1e188fcb433f010b96666.js": "/stephenjera/precache-manifest.e21e0baae1e1e188fcb433f010b96666.js",
+    "precache-manifest.e04e15be385f38dd89603081c1abeae0.js": "/stephenjera/precache-manifest.e04e15be385f38dd89603081c1abeae0.js",
     "service-worker.js": "/stephenjera/service-worker.js",
     "static/css/main.1a3e97cc.chunk.css.map": "/stephenjera/static/css/main.1a3e97cc.chunk.css.map",
     "static/media/index.css": "/stephenjera/static/media/Montserrat-Regular.ee653992.ttf",
@@ -38,7 +38,7 @@
     "static/media/experience.svg": "/stephenjera/static/media/experience.a00ede3f.svg",
     "static/media/all.css": "/stephenjera/static/media/fa-solid-900.8e4a6dcc.eot",
     "static/media/feelingProud.svg": "/stephenjera/static/media/feelingProud.2936ce95.svg",
-    "static/media/fullstack.svg": "/stephenjera/static/media/fullstack.fce60807.svg",
+    "static/media/fullstack.svg": "/stephenjera/static/media/fullstack.ad483cf8.svg",
     "static/media/gcp_logo.png": "/stephenjera/static/media/gcp_logo.0ee7e8c9.png",
     "static/media/github_logo.png": "/stephenjera/static/media/github_logo.6eeb2e81.png",
     "static/media/googleAssistant.jpg": "/stephenjera/static/media/googleAssistant.0c8a4c11.jpg",
@@ -54,7 +54,7 @@
     "static/media/muffito_logo.png": "/stephenjera/static/media/muffito_logo.069938a8.png",
     "static/media/nptel_logo.png": "/stephenjera/static/media/nptel_logo.95a12a2b.png",
     "static/media/portfolio.gif": "/stephenjera/static/media/portfolio.414dfbd9.gif",
-    "static/media/programmer.svg": "/stephenjera/static/media/programmer.5faf790b.svg",
+    "static/media/programmer.svg": "/stephenjera/static/media/programmer.7adc4ebf.svg",
     "static/media/projects_image.svg": "/stephenjera/static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "/stephenjera/static/media/pwa.71408db7.png",
     "static/media/stanford_logo.png": "/stephenjera/static/media/stanford_logo.2c497738.png",
@@ -64,8 +64,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.48472e51.js",
-    "static/js/2.5bd63d97.chunk.js",
+    "static/js/2.7a2f1659.chunk.js",
     "static/css/main.1a3e97cc.chunk.css",
-    "static/js/main.13bc0bf1.chunk.js"
+    "static/js/main.500f68e9.chunk.js"
   ]
 }
