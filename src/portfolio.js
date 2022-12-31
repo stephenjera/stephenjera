@@ -340,6 +340,14 @@ const certifications = {
       alt_name: "Hands On Essentials - Data Lake",
       color_code: "#FFFFFF",
     },
+    {
+      title: "Snowflake Hands On Essentials - Data Engineering",
+      subtitle: "",
+      logo_path: "Snowflake Essentials-Data-Engineering.png",
+      certificate_link: "https://www.credly.com/users/stephen-jeranyama/badges",
+      alt_name: "Hands On Essentials - Data Engineering",
+      color_code: "#FFFFFF",
+    },
   ],
 };
 
