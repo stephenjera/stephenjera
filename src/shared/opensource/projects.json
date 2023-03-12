@@ -37,6 +37,10 @@
         {
           "name": "Jupyter Notebook",
           "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "Flask",
+          "iconifyClass": "logos:flask"
         }
       ]
     },
@@ -81,6 +85,10 @@
         {
           "name": "Docker",
           "iconifyClass": "logos:docker-icon"
+        },
+        {
+          "name": "dbt",
+          "iconifyClass": "logos:dbt-icon"
         }
       ]
     },

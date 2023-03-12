@@ -104,6 +104,14 @@ const skills = {
             color: "#3776AB",
           },
         },
+        {
+          skillName: "Tableau",
+          fontAwesomeClassname: "logos:tableau-icon",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
       ],
     },
     {
@@ -145,6 +153,14 @@ const skills = {
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
+          },
+        },
+        {
+          skillName: "dbt",
+          fontAwesomeClassname: "simple-icons:dbt",
+          style: {
+            backgroundColor: "transparent",
+            color: "#FF694A",
           },
         },
         {
