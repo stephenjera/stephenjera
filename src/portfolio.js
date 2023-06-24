@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Stephen Jeranyama",
   nickname: "",
   subTitle:
-    "I am experienced in building software for Data Science, Machine Learning, Data Engineering and Embedded Systems.",
+    "Welcome to my portfolio! I am a skilled software developer with experience in building software for Data Science, Machine Learning, Data Engineering, and Embedded Systems.",
   resumeLink: "test",
   portfolio_repository: "https://github.com/stephenjera/stephenjera",
   githubProfile: "https://github.com/stephenjera",
@@ -57,70 +57,12 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
-      fileName: "DataScienceImg",
-      skills: [
-        "⚡ Experience developing LSTMs and CNN models for Automatic Music Transcription.",
-        "⚡ Using random forests and SVMs for feature selection and predictions.",
-        "⚡ Predictions using Linear Regression techniques on weather data.",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-        {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "Jupyter Notebooks",
-          fontAwesomeClassname: "logos:jupyter",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-        {
-          skillName: "Power BI",
-          fontAwesomeClassname: "logos:microsoft-power-bi",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-        {
-          skillName: "Tableau",
-          fontAwesomeClassname: "logos:tableau-icon",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-      ],
-    },
-    {
       title: "Data Engineering",
       fileName: "ProgrammerImg",
       skills: [
-        "⚡ Designing and developing relational databases",
-        "⚡ Integrating snowflake backend to web apps.",
-        "⚡ Containerizing databases with Docker",
+        "⚡ Developing ELT pipelines with dbt and Snowflake for efficient data processing.",
+        "⚡ Designing OLTP and OLAP database systems",
+        "⚡ Using cloud platforms to create custom connectors for Fivetran",
       ],
       softwareSkills: [
         {
@@ -171,49 +113,130 @@ const skills = {
             color: "#3776AB",
           },
         },
+        {
+          skillName: "GCP",
+          fontAwesomeClassname: "skill-icons:gcp-light",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
       ],
     },
     {
-      title: "Embedded Systems",
+      title: "Fullstack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Designing embedded software for Arduinos, Raspberry Pis and STM32s.",
-        "⚡ Circuit designs for robotics and embedded hardware.",
+        "⚡ Experience with front-end technologies such as JavaScript and TypeScript, and front-end frameworks like React.",
+        "⚡ Proficiency in back-end technologies such as Node.js and Python, and back-end frameworks like FastAPI.",
+        "⚡ Creating APIs with database technologies such as PostgreSQL and BigQuery, and hosting them on cloud platforms",
       ],
       softwareSkills: [
         {
-          skillName: "Arduino",
-          fontAwesomeClassname: "logos:arduino",
+          skillName: "TypesScript",
+          fontAwesomeClassname: "logos:typescript-icon",
           style: {
             color: "#FF2BC2",
           },
         },
         {
-          skillName: "C",
-          fontAwesomeClassname: "logos:c",
+          skillName: "JavaScript",
+          fontAwesomeClassname: "logos:javascript",
           style: {
             color: "#F24E1E",
           },
         },
         {
-          skillName: "C++",
-          fontAwesomeClassname: "logos:c-plusplus",
+          skillName: "HTML",
+          fontAwesomeClassname: "logos:html-5",
           style: {
             color: "#FF7C00",
           },
         },
         {
-          skillName: "Raspberry Pi",
-          fontAwesomeClassname: "logos:raspberry-pi",
+          skillName: "CSS",
+          fontAwesomeClassname: "logos:css-3",
           style: {
             color: "#000000",
           },
         },
         {
-          skillName: "STM Microelectronics",
-          fontAwesomeClassname: "simple-icons:stmicroelectronics",
+          skillName: "React",
+          fontAwesomeClassname: "logos:react",
           style: {
             color: "#000000",
+          },
+        },
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "logos:python",
+          style: {
+            color: "#000000",
+          },
+        },
+        {
+          skillName: "GraphQL",
+          fontAwesomeClassname: "logos:graphql",
+          style: {
+            color: "#000000",
+          },
+        },
+      ],
+    },
+    {
+      title: "Data Science & AI",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ Utilizing machine learning techniques to create predictive models and derive insights from data.",
+        "⚡ Developing multiple linear regression models with high r2 scores.",
+        "⚡ Applying statistical analysis techniques to evaluate model performance.",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "logos:python",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Tensorflow",
+          fontAwesomeClassname: "logos-tensorflow",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Keras",
+          fontAwesomeClassname: "simple-icons:keras",
+          style: {
+            backgroundColor: "white",
+            color: "#D00000",
+          },
+        },
+        {
+          skillName: "Jupyter Notebooks",
+          fontAwesomeClassname: "logos:jupyter",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Power BI",
+          fontAwesomeClassname: "logos:microsoft-power-bi",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Tableau",
+          fontAwesomeClassname: "logos:tableau-icon",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
           },
         },
       ],
@@ -371,8 +394,10 @@ const certifications = {
 const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteering",
-  description:
-    "I have gained experience on my placement as a Test Automation Engineer and my university projects varying from robotics design, machine learning and programming in several languages such as C/C++, Python and LabVIEW.",
+  description: `As a Data Consultant at Rockborne, I delivered high-quality results for a client
+    specializing in Analytics with Tableau. My projects included developing 
+    a web app and building ELT pipelines. I also have experience as a Test Automation Engineer
+    and have explored fields such as robotics design and machine learning through my university projects.`,
   header_image_path: "experience.svg",
   sections: [
     {
@@ -386,13 +411,15 @@ const experience = {
           duration: "July 2022 - PRESENT",
           location: "London",
           description: [
-            "Rockborne is an expert provider of specialist Data & Analytics consultants. ",
-            "Rockborne provides bespoke technical, business, and interpersonal training. ",
-            "Bikeshare SQL Project: I cleaned and explored the Divvy bikes dataset, using joins, CTEs ",
-            "and views in PostgreSQL and created visualisations in Excel to answer business questions ",
-            "to present to stakeholders. ",
-            "Superstore Excel Project: Utilising Excel pivot tables and charts, a dashboard showing ",
-            "KPIs of the Superstore dataset was created and presented to stakeholders.",
+            `Consulted for a client specializing in Analytics with Tableau as part
+            of the Data Engineering team, delivering high-quality results.
+            Automated workflows with N8N and built ELT pipelines with dbt
+            and Snowflake, utilizing Kimball data modeling techniques.
+            Completed a 16-week intensive data training program, achiev-
+            ing proficiency in Cloud Engineering Data Engineering, Python,
+            SQL, Data Science, Machine Learning, Data Visualization, Power BI,
+            Tableau, DevOps, Docker, Relational Database Concepts, and
+            presentations`,
           ],
           color: "#4285F4",
         },

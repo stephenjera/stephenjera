@@ -1,6 +1,136 @@
 {
   "data": [
     {
+      "id": "R_kgDOJyb0yA",
+      "name": "Coding-Tutorials",
+      "createdAt": "2023-06-21T19:58:32Z",
+      "url": "https://github.com/stephenjera/coding-tutorials",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "TypeScript",
+          "iconifyClass": "logos:typescript-icon"
+        },
+        {
+          "name": "Docker",
+          "iconifyClass": "logos:docker-icon"
+        },
+        {
+          "name": "C",
+          "iconifyClass": "logos:c"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJqwV5g",
+      "name": "Super-Portfolio",
+      "createdAt": "2023-06-02T22:00:52Z",
+      "url": "https://github.com/stephenjera/super-portfolio",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Tailwind",
+          "iconifyClass": "logos:tailwindcss-icon"
+        },
+        {
+          "name": "TypeScript",
+          "iconifyClass": "logos:typescript-icon"
+        },
+        {
+          "name": "Next.js",
+          "iconifyClass": "devicon:nextjs-wordmark"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOHbpwEA",
+      "name": "SQL-Projects",
+      "createdAt": "2022-06-01T13:55:00Z",
+      "url": "https://github.com/stephenjera/SQL-Projects",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Postgres",
+          "iconifyClass": "logos:postgresql"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "logos:docker-icon"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJqva2g",
+      "name": "GraphQL-API",
+      "createdAt": "2023-06-02T20:51:24Z",
+      "url": "https://github.com/stephenjera/Graphql-API",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "skill-icons:fastapi"
+        },
+        {
+          "name": "GraphQL",
+          "iconifyClass": "logos:graphql"
+        },
+        {
+          "name": "GCP",
+          "iconifyClass": "skill-icons:gcp-light"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxOTM2OTY4NjQ=",
+      "name": "JavaScript-Projects",
+      "createdAt": "2019-06-25T11:43:13Z",
+      "url": "https://github.com/stephenjera/JavaScript-Projects",
+      "description": null,
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
       "id": "R_kgDOHvPJ9g",
       "name": "Automatic-Music-Transcription",
       "createdAt": "2022-07-29T17:15:37Z",
@@ -15,116 +145,6 @@
         {
           "name": "Jupyter Notebook",
           "iconifyClass": "logos-jupyter"
-        },
-        {
-          "name": "MATLAB",
-          "iconifyClass": "vscode-icons:file-type-matlab"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkxOTM2NDg1OTA=",
-      "name": "Python-Projects",
-      "createdAt": "2019-06-25T06:31:56Z",
-      "url": "https://github.com/stephenjera/Python-Projects",
-      "description": null,
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        },
-        {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
-        },
-        {
-          "name": "Flask",
-          "iconifyClass": "logos:flask"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkxOTM0NTY3NTQ=",
-      "name": "C-Projects",
-      "createdAt": "2019-06-24T07:32:43Z",
-      "url": "https://github.com/stephenjera/C-Projects",
-      "description": null,
-      "isFork": false,
-      "languages": [
-        {
-          "name": "C",
-          "iconifyClass": "logos:c"
-        },
-        {
-          "name": "C++",
-          "iconifyClass": "logos:c-plusplus"
-        },
-        {
-          "name": "Arduino",
-          "iconifyClass": "vscode-icons:file-type-arduino"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOHxPhhQ",
-      "name": "Kaggle-Projects",
-      "createdAt": "2022-08-04T19:48:17Z",
-      "url": "https://github.com/stephenjera/Kaggle-Projects",
-      "description": null,
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        },
-        {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
-        },
-        {
-          "name": "Docker",
-          "iconifyClass": "logos:docker-icon"
-        },
-        {
-          "name": "dbt",
-          "iconifyClass": "logos:dbt-icon"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOHvvspw",
-      "name": "RaspberryPi-Projects",
-      "createdAt": "2022-07-31T16:19:46Z",
-      "url": "https://github.com/stephenjera/RaspberryPi-Projects",
-      "description": "Raspberry Pi projects",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        },
-        {
-          "name": "Raspberry Pi",
-          "iconifyClass": "logos:raspberry-pi"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOHqz97A",
-      "name": "stephenjera",
-      "createdAt": "2022-07-16T18:16:49Z",
-      "url": "https://github.com/stephenjera/stephenjera",
-      "description": null,
-      "isFork": false,
-      "languages": [
-        {
-          "name": "React",
-          "iconifyClass": "logos:react"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
         }
       ]
     }
