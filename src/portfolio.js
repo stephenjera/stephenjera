@@ -22,8 +22,9 @@ const greeting = {
   title: "Stephen Jeranyama",
   logo_name: "Stephen Jeranyama",
   nickname: "",
-  subTitle:
-    "Welcome to my portfolio! I am a skilled software developer with experience in building software for Data Science, Machine Learning, Data Engineering, and Embedded Systems.",
+  subTitle: `Welcome to my portfolio! I am a skilled software developer with experience 
+    in building software for Data Science, Machine Learning, 
+    Data Engineering, and Fullstack Software.`,
   resumeLink: "test",
   portfolio_repository: "https://github.com/stephenjera/stephenjera",
   githubProfile: "https://github.com/stephenjera",
