@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Stephen's Portfolio",
   description:
-    "A recent graduate looking to explore the world of data, artificial intelligence and machine learning",
+    "Data Consultant with experience in data engineering, AI and machine learning.",
   og: {
     title: "Stephen Portfolio",
     type: "website",
@@ -22,9 +22,9 @@ const greeting = {
   title: "Stephen Jeranyama",
   logo_name: "Stephen Jeranyama",
   nickname: "",
-  subTitle: `Welcome to my portfolio! I am a skilled software developer with experience 
-    in building software for Data Science, Machine Learning, 
-    Data Engineering, and Fullstack Software.`,
+  subTitle: `Welcome to my portfolio! As a data specialist, 
+  I leverage my software development skills to build robust solutions 
+  for data engineering, data science, and machine learning.`,
   resumeLink: "test",
   portfolio_repository: "https://github.com/stephenjera/stephenjera",
   githubProfile: "https://github.com/stephenjera",
@@ -47,12 +47,6 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
-  {
-    name: "Instagram",
-    link: "https://www.instagram.com/stephenjeranyama/",
-    fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
-    backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
-  },
 ];
 
 const skills = {
@@ -61,11 +55,27 @@ const skills = {
       title: "Data Engineering",
       fileName: "ProgrammerImg",
       skills: [
-        "⚡ Developing ELT pipelines with dbt and Snowflake for efficient data processing.",
-        "⚡ Designing OLTP and OLAP database systems",
-        "⚡ Using cloud platforms to create custom connectors for Fivetran",
+        "⚡ Automating Data Workflows: I build and orchestrate data pipelines using tools like Terraform, Dagster, and Airbyte for seamless data extraction, transformation, and loading.",
+        "⚡ Cloud-Based Data Management: Leveraging cloud platforms like BigQuery and Snowflake, I design efficient OLTP and OLAP databases, facilitating data analysis and retrieval.",
+        "⚡ API and Visualization Expertise: I create custom Fivetran connectors and GraphQL APIs, enabling efficient data access and crafting insightful visualizations using tools like Tableau and Power BI",
       ],
       softwareSkills: [
+        {
+          skillName: "Terraform",
+          fontAwesomeClassname: "vscode-icons:file-type-terraform",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "GraphQL",
+          fontAwesomeClassname: "vscode-icons:file-type-graphql",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
         {
           skillName: "Snowflake",
           fontAwesomeClassname: "logos:snowflake-icon",
@@ -125,72 +135,12 @@ const skills = {
       ],
     },
     {
-      title: "Fullstack Development",
-      fileName: "FullStackImg",
-      skills: [
-        "⚡ Experience with front-end technologies such as JavaScript and TypeScript, and front-end frameworks like React.",
-        "⚡ Proficiency in back-end technologies such as Node.js and Python, and back-end frameworks like FastAPI.",
-        "⚡ Creating APIs with database technologies such as PostgreSQL and BigQuery, and hosting them on cloud platforms",
-      ],
-      softwareSkills: [
-        {
-          skillName: "TypesScript",
-          fontAwesomeClassname: "logos:typescript-icon",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
-        {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "logos:javascript",
-          style: {
-            color: "#F24E1E",
-          },
-        },
-        {
-          skillName: "HTML",
-          fontAwesomeClassname: "logos:html-5",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "CSS",
-          fontAwesomeClassname: "logos:css-3",
-          style: {
-            color: "#000000",
-          },
-        },
-        {
-          skillName: "React",
-          fontAwesomeClassname: "logos:react",
-          style: {
-            color: "#000000",
-          },
-        },
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "logos:python",
-          style: {
-            color: "#000000",
-          },
-        },
-        {
-          skillName: "GraphQL",
-          fontAwesomeClassname: "logos:graphql",
-          style: {
-            color: "#000000",
-          },
-        },
-      ],
-    },
-    {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Utilizing machine learning techniques to create predictive models and derive insights from data.",
-        "⚡ Developing multiple linear regression models with high r2 scores.",
-        "⚡ Applying statistical analysis techniques to evaluate model performance.",
+        "⚡ Machine Learning Pipelines: I build and automate MLOps pipelines using tools like Dagshub, DVC, and MLFlow for efficient model training, version control, and performance tracking.",
+        "⚡ AI Model Development: I design and implement PyTorch-based machine learning models, utilizing libraries like Optuna for hyperparameter optimization.",
+        "⚡ Software Development Integration: I integrate machine learning models into software projects with containerization and unit testing practices, ensuring robust and reliable implementations.",
       ],
       softwareSkills: [
         {
@@ -209,10 +159,10 @@ const skills = {
           },
         },
         {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
+          skillName: "Pytorch",
+          fontAwesomeClassname: "logos:pytorch-icon",
           style: {
-            backgroundColor: "white",
+            backgroundColor: "transparent",
             color: "#D00000",
           },
         },
@@ -333,6 +283,22 @@ const certifications = {
       color_code: "#FFFFFF",
     },
     {
+      title: "ThoughtSpot Professional",
+      subtitle: "",
+      logo_path: "ThoughtSpot_Certified_Professional.png",
+      certificate_link: "https://www.credly.com/users/stephen-jeranyama/badges",
+      alt_name: "ThoughtSpot Certified Professional",
+      color_code: "#FFFFFF",
+    },
+    {
+      title: "ThoughtSpot Cloud Architect",
+      subtitle: "",
+      logo_path: "ThoughtSpot_Cloud_Architect.png",
+      certificate_link: "https://www.credly.com/users/stephen-jeranyama/badges",
+      alt_name: "ThoughtSpot Cloud Architect",
+      color_code: "#FFFFFF",
+    },
+    {
       title: "Data Science Foundations - Level 2",
       subtitle: "",
       logo_path: "Data_Sci_Foundations_Level_2_-_CC_-_2019.png",
@@ -395,21 +361,26 @@ const certifications = {
 const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteering",
-  description: `As a Data Consultant at Rockborne, I delivered high-quality results for a client
-    specializing in Analytics with Tableau. My projects included developing 
-    a web app and building ELT pipelines. I also have experience as a Test Automation Engineer
-    and have explored fields such as robotics design and machine learning through my university projects.`,
+  description: `
+  Leveraging my data engineering skills, I consulted for an analytics
+  client, automating workflows and building ELT pipelines for 
+  efficient data processing. I also honed my technical expertise
+  through a comprehensive training program, gaining proficiency 
+  in cloud technologies, data analysis tools, programming languages,
+  and data visualization techniques. This combination of experience 
+  and knowledge allows me to effectively bridge the gap between data 
+  and actionable insights.`,
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work",
       experiences: [
         {
-          title: "Graduate Consultant",
+          title: "Data Consultant",
           company: "Rockborne",
           company_url: "https://rockborne.com/",
           logo_path: "Rockborne-logo-red.jpg",
-          duration: "July 2022 - PRESENT",
+          duration: "July 2022 - December 2023",
           location: "London",
           description: [
             `Consulted for a client specializing in Analytics with Tableau as part
