@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ec3e88edb14de132e59ca20f7f30705",
+    "revision": "7ad9494ed3e9a221a601ecb9f928268f",
     "url": "/stephenjera/index.html"
   },
   {
-    "revision": "79188cf1f0caad9d0762",
-    "url": "/stephenjera/static/css/main.1a3e97cc.chunk.css"
+    "revision": "53f2171f6d23bc4ae191",
+    "url": "/stephenjera/static/css/main.ab17424b.chunk.css"
   },
   {
-    "revision": "fe269656a8cdfc012216",
-    "url": "/stephenjera/static/js/2.d337c626.chunk.js"
+    "revision": "6e249fe358e9113435b3",
+    "url": "/stephenjera/static/js/2.cf5edd62.chunk.js"
   },
   {
-    "revision": "79188cf1f0caad9d0762",
-    "url": "/stephenjera/static/js/main.d9fa658e.chunk.js"
+    "revision": "53f2171f6d23bc4ae191",
+    "url": "/stephenjera/static/js/main.8a505e38.chunk.js"
   },
   {
     "revision": "1e4f3893e0f2b2333c78",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ded85f8b8d5620038f65d68ae3ecbd9d",
     "url": "/stephenjera/static/media/Applied_Data_Science_with_Python.ded85f8b.png"
+  },
+  {
+    "revision": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "/stephenjera/static/media/Certified_ThoughtSpot_Cloud_Architect.png:Zone.d41d8cd9.Identifier"
   },
   {
     "revision": "b3a966e7ebc68f4759135c0375b81842",
@@ -90,6 +94,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a11570f46886ae48bec5d508d986f7a5",
     "url": "/stephenjera/static/media/Snowflake-Essentials-Data-Warehouse_2x.a11570f4.png"
+  },
+  {
+    "revision": "66e30e5b0a1a1c2ef7b0af066202f50b",
+    "url": "/stephenjera/static/media/ThoughtSpot_Certified_Professional.66e30e5b.png"
+  },
+  {
+    "revision": "d41d8cd98f00b204e9800998ecf8427e",
+    "url": "/stephenjera/static/media/ThoughtSpot_Certified_Professional.png:Zone.d41d8cd9.Identifier"
+  },
+  {
+    "revision": "91fb1b75eb71a17e17f0e03ba5deba03",
+    "url": "/stephenjera/static/media/ThoughtSpot_Cloud_Architect.91fb1b75.png"
   },
   {
     "revision": "e185ca9233577a345385936cab6ddbb0",
@@ -216,8 +232,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stephenjera/static/media/feelingProud.2936ce95.svg"
   },
   {
-    "revision": "ad483cf81413005cb6807fd29d12d0a6",
-    "url": "/stephenjera/static/media/fullstack.ad483cf8.svg"
+    "revision": "54895143cddbb5294122a01fda38d6bd",
+    "url": "/stephenjera/static/media/fullstack.54895143.svg"
   },
   {
     "revision": "0ee7e8c9444cdfefc10f6d86e18b9b5b",
@@ -280,8 +296,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stephenjera/static/media/portfolio.414dfbd9.gif"
   },
   {
-    "revision": "7adc4ebf486222e5273424c6a3d132a7",
-    "url": "/stephenjera/static/media/programmer.7adc4ebf.svg"
+    "revision": "365644073dae0b5ec2aad9d86cd81503",
+    "url": "/stephenjera/static/media/programmer.36564407.svg"
   },
   {
     "revision": "b8ba948796d7ab532673c5ed2f315e74",
