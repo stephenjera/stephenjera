@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ad9494ed3e9a221a601ecb9f928268f",
+    "revision": "9ad7349db73e1f6ffdb6e26b6338f435",
     "url": "/stephenjera/index.html"
   },
   {
-    "revision": "53f2171f6d23bc4ae191",
+    "revision": "6798e680bf8d9e701a5c",
     "url": "/stephenjera/static/css/main.ab17424b.chunk.css"
   },
   {
-    "revision": "6e249fe358e9113435b3",
-    "url": "/stephenjera/static/js/2.cf5edd62.chunk.js"
+    "revision": "4fde6e90d4489d5884a0",
+    "url": "/stephenjera/static/js/2.2add0b28.chunk.js"
   },
   {
-    "revision": "53f2171f6d23bc4ae191",
-    "url": "/stephenjera/static/js/main.8a505e38.chunk.js"
+    "revision": "6798e680bf8d9e701a5c",
+    "url": "/stephenjera/static/js/main.a2dd9cc0.chunk.js"
   },
   {
     "revision": "1e4f3893e0f2b2333c78",
     "url": "/stephenjera/static/js/runtime-main.48472e51.js"
+  },
+  {
+    "revision": "e3e871e7248ad4cdae9eb104d7e40825",
+    "url": "/stephenjera/static/media/Actica-Logo-White-Background-1.e3e871e7.png"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -26,10 +30,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ded85f8b8d5620038f65d68ae3ecbd9d",
     "url": "/stephenjera/static/media/Applied_Data_Science_with_Python.ded85f8b.png"
-  },
-  {
-    "revision": "d41d8cd98f00b204e9800998ecf8427e",
-    "url": "/stephenjera/static/media/Certified_ThoughtSpot_Cloud_Architect.png:Zone.d41d8cd9.Identifier"
   },
   {
     "revision": "b3a966e7ebc68f4759135c0375b81842",
@@ -100,10 +100,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stephenjera/static/media/ThoughtSpot_Certified_Professional.66e30e5b.png"
   },
   {
-    "revision": "d41d8cd98f00b204e9800998ecf8427e",
-    "url": "/stephenjera/static/media/ThoughtSpot_Certified_Professional.png:Zone.d41d8cd9.Identifier"
-  },
-  {
     "revision": "91fb1b75eb71a17e17f0e03ba5deba03",
     "url": "/stephenjera/static/media/ThoughtSpot_Cloud_Architect.91fb1b75.png"
   },
@@ -122,6 +118,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
     "url": "/stephenjera/static/media/animated_logo.dcd6dee2.svg"
+  },
+  {
+    "revision": "c7c3966296486d8a1971f13a2fa51d9b",
+    "url": "/stephenjera/static/media/aviva_logo.c7c39662.png"
+  },
+  {
+    "revision": "944f5904fdf88bcdf196c92cf1c31773",
+    "url": "/stephenjera/static/media/aws_knowledge_cloud_essentials.944f5904.png"
   },
   {
     "revision": "cb63b250efd249b3672f132b4eb96f61",

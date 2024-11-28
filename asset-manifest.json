@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/stephenjera/static/css/main.ab17424b.chunk.css",
-    "main.js": "/stephenjera/static/js/main.8a505e38.chunk.js",
-    "main.js.map": "/stephenjera/static/js/main.8a505e38.chunk.js.map",
+    "main.js": "/stephenjera/static/js/main.a2dd9cc0.chunk.js",
+    "main.js.map": "/stephenjera/static/js/main.a2dd9cc0.chunk.js.map",
     "runtime-main.js": "/stephenjera/static/js/runtime-main.48472e51.js",
     "runtime-main.js.map": "/stephenjera/static/js/runtime-main.48472e51.js.map",
-    "static/js/2.cf5edd62.chunk.js": "/stephenjera/static/js/2.cf5edd62.chunk.js",
-    "static/js/2.cf5edd62.chunk.js.map": "/stephenjera/static/js/2.cf5edd62.chunk.js.map",
+    "static/js/2.2add0b28.chunk.js": "/stephenjera/static/js/2.2add0b28.chunk.js",
+    "static/js/2.2add0b28.chunk.js.map": "/stephenjera/static/js/2.2add0b28.chunk.js.map",
     "index.html": "/stephenjera/index.html",
-    "precache-manifest.7a1960bdc6573f63b19594fc548ac147.js": "/stephenjera/precache-manifest.7a1960bdc6573f63b19594fc548ac147.js",
+    "precache-manifest.cc698703c52a6dfc439473b826a9ddfc.js": "/stephenjera/precache-manifest.cc698703c52a6dfc439473b826a9ddfc.js",
     "service-worker.js": "/stephenjera/service-worker.js",
     "static/css/main.ab17424b.chunk.css.map": "/stephenjera/static/css/main.ab17424b.chunk.css.map",
+    "static/media/Actica-Logo-White-Background-1.png": "/stephenjera/static/media/Actica-Logo-White-Background-1.e3e871e7.png",
     "static/media/index.css": "/stephenjera/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Applied_Data_Science_with_Python.png": "/stephenjera/static/media/Applied_Data_Science_with_Python.ded85f8b.png",
-    "static/media/Certified_ThoughtSpot_Cloud_Architect.png:Zone.Identifier": "/stephenjera/static/media/Certified_ThoughtSpot_Cloud_Architect.png:Zone.d41d8cd9.Identifier",
     "static/media/Data_Sci_Foundations_Level_2_-_CC_-_2019.png": "/stephenjera/static/media/Data_Sci_Foundations_Level_2_-_CC_-_2019.b3a966e7.png",
     "static/media/Doddridge_Centre.jpg": "/stephenjera/static/media/Doddridge_Centre.53a1827e.jpg",
     "static/media/Rockborne-LinkedIn-Header-Image-Red.jpg": "/stephenjera/static/media/Rockborne-LinkedIn-Header-Image-Red.2eb7d264.jpg",
@@ -24,12 +24,13 @@
     "static/media/Snowflake-Essentials-Data-Sharing_2x.png": "/stephenjera/static/media/Snowflake-Essentials-Data-Sharing_2x.eeb31bd9.png",
     "static/media/Snowflake-Essentials-Data-Warehouse_2x.png": "/stephenjera/static/media/Snowflake-Essentials-Data-Warehouse_2x.a11570f4.png",
     "static/media/ThoughtSpot_Certified_Professional.png": "/stephenjera/static/media/ThoughtSpot_Certified_Professional.66e30e5b.png",
-    "static/media/ThoughtSpot_Certified_Professional.png:Zone.Identifier": "/stephenjera/static/media/ThoughtSpot_Certified_Professional.png:Zone.d41d8cd9.Identifier",
     "static/media/ThoughtSpot_Cloud_Architect.png": "/stephenjera/static/media/ThoughtSpot_Cloud_Architect.91fb1b75.png",
     "static/media/abaco-logo.svg": "/stephenjera/static/media/abaco-logo.e185ca92.svg",
     "static/media/address_image.svg": "/stephenjera/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/stephenjera/static/media/animated_ashutosh.be4f4800.png",
     "static/media/animated_logo.svg": "/stephenjera/static/media/animated_logo.dcd6dee2.svg",
+    "static/media/aviva_logo.png": "/stephenjera/static/media/aviva_logo.c7c39662.png",
+    "static/media/aws_knowledge_cloud_essentials.png": "/stephenjera/static/media/aws_knowledge_cloud_essentials.944f5904.png",
     "static/media/azure-data-fundamentals-600x600.png": "/stephenjera/static/media/azure-data-fundamentals-600x600.cb63b250.png",
     "static/media/blogs_image.svg": "/stephenjera/static/media/blogs_image.058eca4c.svg",
     "static/media/cloud_infrastructure.svg": "/stephenjera/static/media/cloud_infrastructure.cacbc42b.svg",
@@ -69,8 +70,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.48472e51.js",
-    "static/js/2.cf5edd62.chunk.js",
+    "static/js/2.2add0b28.chunk.js",
     "static/css/main.ab17424b.chunk.css",
-    "static/js/main.8a505e38.chunk.js"
+    "static/js/main.a2dd9cc0.chunk.js"
   ]
 }
