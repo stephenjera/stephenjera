@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Stephen's Portfolio",
   description:
-    "Data Consultant with experience in data engineering, AI and machine learning.",
+    "Data expert experienced in AI, machine learning and data engineering.",
   og: {
     title: "Stephen Portfolio",
     type: "website",
@@ -23,8 +23,8 @@ const greeting = {
   logo_name: "Stephen Jeranyama",
   nickname: "",
   subTitle: `Welcome to my portfolio! As a data specialist, 
-  I leverage my software development skills to build robust solutions 
-  for data engineering, data science, and machine learning.`,
+  I leverage my software engineering skills to build robust solutions 
+  for, data science, machine learning, and data engineering.`,
   resumeLink: "test",
   portfolio_repository: "https://github.com/stephenjera/stephenjera",
   githubProfile: "https://github.com/stephenjera",
@@ -52,12 +52,70 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
+      title: "Data Science & AI",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ AI Model Development: I design and implement machine learning models, focusing on optimizing hyperparameters to enhance model accuracy and performance.",
+        "⚡ Machine Learning Pipelines: I build and automate MLOps pipelines to streamline model training, ensure version control, and track performance efficiently.",
+        "⚡ Software Development Integration: I integrate machine learning models into software projects, employing best practices in containerization and unit testing to ensure robust and reliable implementations.",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "logos:python",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Tensorflow",
+          fontAwesomeClassname: "logos-tensorflow",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Pytorch",
+          fontAwesomeClassname: "logos:pytorch-icon",
+          style: {
+            backgroundColor: "transparent",
+            color: "#D00000",
+          },
+        },
+        {
+          skillName: "Jupyter Notebooks",
+          fontAwesomeClassname: "logos:jupyter",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Power BI",
+          fontAwesomeClassname: "logos:microsoft-power-bi",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Tableau",
+          fontAwesomeClassname: "logos:tableau-icon",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+      ],
+    },
+    {
       title: "Data Engineering",
       fileName: "ProgrammerImg",
       skills: [
-        "⚡ Automating Data Workflows: I build and orchestrate data pipelines using tools like Terraform, Dagster, and Airbyte for seamless data extraction, transformation, and loading.",
-        "⚡ Cloud-Based Data Management: Leveraging cloud platforms like BigQuery and Snowflake, I design efficient OLTP and OLAP databases, facilitating data analysis and retrieval.",
-        "⚡ API and Visualization Expertise: I create custom Fivetran connectors and GraphQL APIs, enabling efficient data access and crafting insightful visualizations using tools like Tableau and Power BI",
+        "⚡ Automating Data Workflows: I build and orchestrate data pipelines to ensure seamless data extraction, transformation, and loading, optimizing the flow of information across systems.",
+        "⚡ Cloud-Based Data Management: I design efficient databases for both transactional and analytical processing, facilitating robust data analysis and retrieval in cloud environments.",
+        "⚡ API and Visualization Expertise: I develop custom connectors and APIs to enable efficient data access and create insightful visualizations, enhancing data-driven decision-making.",
       ],
       softwareSkills: [
         {
@@ -127,64 +185,6 @@ const skills = {
         {
           skillName: "GCP",
           fontAwesomeClassname: "skill-icons:gcp-light",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-      ],
-    },
-    {
-      title: "Data Science & AI",
-      fileName: "DataScienceImg",
-      skills: [
-        "⚡ Machine Learning Pipelines: I build and automate MLOps pipelines using tools like Dagshub, DVC, and MLFlow for efficient model training, version control, and performance tracking.",
-        "⚡ AI Model Development: I design and implement PyTorch-based machine learning models, utilizing libraries like Optuna for hyperparameter optimization.",
-        "⚡ Software Development Integration: I integrate machine learning models into software projects with containerization and unit testing practices, ensuring robust and reliable implementations.",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "logos:python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-        {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Pytorch",
-          fontAwesomeClassname: "logos:pytorch-icon",
-          style: {
-            backgroundColor: "transparent",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "Jupyter Notebooks",
-          fontAwesomeClassname: "logos:jupyter",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-        {
-          skillName: "Power BI",
-          fontAwesomeClassname: "logos:microsoft-power-bi",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-        {
-          skillName: "Tableau",
-          fontAwesomeClassname: "logos:tableau-icon",
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
@@ -283,6 +283,14 @@ const certifications = {
       color_code: "#FFFFFF",
     },
     {
+      title: "AWS Knowledge: Cloud Essentials",
+      subtitle: "",
+      logo_path: "aws_knowledge_cloud_essentials.png",
+      certificate_link: "https://www.credly.com/users/stephen-jeranyama/badges",
+      alt_name: "AWS Knowledge: Cloud Essentials",
+      color_code: "#FFFFFF",
+    },
+    {
       title: "ThoughtSpot Professional",
       subtitle: "",
       logo_path: "ThoughtSpot_Certified_Professional.png",
@@ -312,6 +320,14 @@ const certifications = {
       logo_path: "Applied_Data_Science_with_Python.png",
       certificate_link: "https://www.credly.com/users/stephen-jeranyama/badges",
       alt_name: "Applied Data Science with Python",
+      color_code: "#FFFFFF",
+    },
+    {
+      title: "Snowflake Hands On Essentials - Data Engineering",
+      subtitle: "",
+      logo_path: "Snowflake Essentials-Data-Engineering.png",
+      certificate_link: "https://www.credly.com/users/stephen-jeranyama/badges",
+      alt_name: "Hands On Essentials - Data Engineering",
       color_code: "#FFFFFF",
     },
     {
@@ -346,14 +362,6 @@ const certifications = {
       alt_name: "Hands On Essentials - Data Lake",
       color_code: "#FFFFFF",
     },
-    {
-      title: "Snowflake Hands On Essentials - Data Engineering",
-      subtitle: "",
-      logo_path: "Snowflake Essentials-Data-Engineering.png",
-      certificate_link: "https://www.credly.com/users/stephen-jeranyama/badges",
-      alt_name: "Hands On Essentials - Data Engineering",
-      color_code: "#FFFFFF",
-    },
   ],
 };
 
@@ -362,19 +370,51 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteering",
   description: `
-  Leveraging my data engineering skills, I consulted for an analytics
-  client, automating workflows and building ELT pipelines for 
-  efficient data processing. I also honed my technical expertise
-  through a comprehensive training program, gaining proficiency 
-  in cloud technologies, data analysis tools, programming languages,
-  and data visualization techniques. This combination of experience 
-  and knowledge allows me to effectively bridge the gap between data 
-  and actionable insights.`,
+  Leveraging my data skills, 
+  I led a team to develop a recruitment data dashboard, transitioning the company to structured,
+  data-driven reports. I consulted on monitoring solutions, automated data migrations, and optimized data pipelines.
+  I also worked on research projects, developed machine learning models, and established MLOps pipelines,
+  ensuring robust implementations. This blend of experience bridges data and actionable insights, driving impactful solutions.`,
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work",
       experiences: [
+        {
+          title: "Data Engineer",
+          company: "Aviva",
+          company_url: "https://www.aviva.co.uk/",
+          logo_path: "aviva_logo.png",
+          duration: "July 2024 - Present",
+          location: "London",
+          description: [
+            `Experienced in data engineering within cloud environments,
+            with a strong focus on DataOps and CI/CD practices. Proficient in writing clean, 
+            maintainable code in SQL and Python, with additional knowledge in data pipeline engineering and best practices.
+            Skilled in designing and managing efficient databases for both transactional and analytical processing,
+            ensuring robust data analysis and retrieval. This experience has equipped me with the ability to bridge the
+            gap between data and actionable insights, driving impactful solutions across various business domains.`,
+          ],
+          color: "#4285F4",
+        },
+        {
+          title: "Data Engineer Consultant",
+          company: "Actica Consulting",
+          company_url: "https://actica.co.uk/",
+          logo_path: "Actica-Logo-White-Background-1.png",
+          duration: "Febuary 2024 - July 2024",
+          location: "Guildford",
+          description: [
+            `Led a team of three in a Recruitment Data Analysis project,
+              ensuring effective collaboration and project delivery to develop a
+              comprehensive Power BI dashboard to visualise recruitment data,
+              providing actionable insights. Conducted regular scrum meetings with the Director, presenting
+              major ideas, project progress, and transitioned the company from
+              inconsistent reporting to a structured report that addressed core
+              business needs.`,
+          ],
+          color: "#4285F4",
+        },
         {
           title: "Data Consultant",
           company: "Rockborne",
@@ -383,15 +423,18 @@ const experience = {
           duration: "July 2022 - December 2023",
           location: "London",
           description: [
-            `Consulted for a client specializing in Analytics with Tableau as part
-            of the Data Engineering team, delivering high-quality results.
-            Automated workflows with N8N and built ELT pipelines with dbt
-            and Snowflake, utilizing Kimball data modeling techniques.
-            Completed a 16-week intensive data training program, achiev-
-            ing proficiency in Cloud Engineering Data Engineering, Python,
-            SQL, Data Science, Machine Learning, Data Visualization, Power BI,
-            Tableau, DevOps, Docker, Relational Database Concepts, and
-            presentations`,
+            `Consulted on a Snowflake usage monitoring solution. Built a
+            Kimball model using dbt and Snowflake information schema for a
+            Power BI dashboard. Enabled successful client PoC, demonstrating
+            data-driven decision-making value.
+            Automated Oracle to Snowflake migration for a client, ensuring
+            a complete audit trail. Developed a Python script with regular
+            expressions to convert DDL syntax and leverage SQL to generate
+            the corresponding Snowflake DDL statements.
+            Optimised client's data pipeline for loading SQL Server backups into
+            Snowflake. Documented Python script (Markdown), containerized
+            with Docker, deployed on Azure Container Instances and
+            automated via Azure Logic Apps`,
           ],
           color: "#4285F4",
         },
